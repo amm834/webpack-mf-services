@@ -46,4 +46,338 @@ asset [1m[32msrc_App_jsx.js[39m[22m 4.2 MiB [1m[32m[emitted][39m[22m
 asset [1m[32mmain.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: main)
 asset [1m[32mindex.html[39m[22m 276 bytes [1m[32m[emitted][39m[22m
 runtime modules 41.3 KiB 16 modules
-modules by path [1m./node_modules/.pnpm/[
+modules by path [1m./node_modules/.pnpm/[39m[22m 1.12 MiB 39 modules
+modules by path [1m./src/[39m[22m 3.88 MiB
+  modules by path [1m./src/*.scss[39m[22m 3.88 MiB
+    [1m./src/index.scss[39m[22m 3.03 KiB [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+    ./node_modules/.pnpm/css-loader@6.7.3_webpack@5.75.0/node_modules/css-loader/dist/cjs.js!./node_modules/.pnpm/postcss-loader@4.3.0_qxxfhhrl3yknjjmta266mo3u64/node_modules/postcss-loader/dist/cjs.js![1m./src/index.scss[39m[22m 3.88 MiB [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+  [1m./src/index.js[39m[22m 16 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+  [1m./src/App.jsx[39m[22m 578 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+provide-module modules 84 bytes
+  [1mprovide shared module (default) react-dom@17.0.2 = ./node_modules/.pnpm/react-dom@17.0.2_react@17.0.2/node_modules/react-dom/index.js[39m[22m 42 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+  [1mprovide shared module (default) react@17.0.2 = ./node_modules/.pnpm/react@17.0.2/node_modules/react/index.js[39m[22m 42 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+consume-shared-module modules 84 bytes
+  [1mconsume shared module (default) react@^17.0.2 (singleton) (fallback: ./node_modules/.pnpm/react@17.0.2/node_modules/react/index.js)[39m[22m 42 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+  [1mconsume shared module (default) react-dom@^17.0.2 (singleton) (fallback: ./node_modules/.pnpm/react-dom@17.0.2_react@17.0.2/node_modules/react-dom/index.js)[39m[22m 42 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+webpack 5.75.0 compiled [1m[32msuccessfully[39m[22m in 14426 ms
+assets by status 1010 KiB [1m[32m[cached][39m[22m 2 assets
+assets by status 4.46 MiB [1m[32m[emitted][39m[22m
+  assets by path [1m[32m*.js[39m[22m 4.46 MiB
+    assets by chunk 270 KiB (name: main)
+      asset [1m[32mmain.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: main)
+      asset [1m[32mmain.5d3a836471f253a03218.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: main)
+    asset [1m[32msrc_App_jsx.js[39m[22m 4.2 MiB [1m[32m[emitted][39m[22m
+    asset [1m[32msrc_App_jsx.5d3a836471f253a03218.hot-update.js[39m[22m 2.49 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+  asset [1m[32mindex.html[39m[22m 276 bytes [1m[32m[emitted][39m[22m
+  asset [1m[32mmain.5d3a836471f253a03218.hot-update.json[39m[22m 42 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+Entrypoint [1mmain[39m[22m 270 KiB = [1m[32mmain.js[39m[22m 269 KiB [1m[32mmain.5d3a836471f253a03218.hot-update.js[39m[22m 847 bytes
+cached modules 5 MiB (javascript) 84 bytes (share-init) 84 bytes (consume-shared) [1m[32m[cached][39m[22m 46 modules
+runtime modules 41.3 KiB 16 modules
+[1m./src/App.jsx[39m[22m 626 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+webpack 5.75.0 compiled [1m[32msuccessfully[39m[22m in 318 ms
+assets by status 1010 KiB [1m[32m[cached][39m[22m 2 assets
+assets by status 4.47 MiB [1m[32m[emitted][39m[22m
+  assets by path [1m[32m*.js[39m[22m 4.47 MiB
+    assets by chunk 270 KiB (name: main)
+      asset [1m[32mmain.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: main)
+      asset [1m[32mmain.971abbee4ef95c88bc75.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: main)
+    asset [1m[32msrc_App_jsx.js[39m[22m 4.2 MiB [1m[32m[emitted][39m[22m
+    asset [1m[32msrc_App_jsx.971abbee4ef95c88bc75.hot-update.js[39m[22m 3.66 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+  asset [1m[32mindex.html[39m[22m 276 bytes [1m[32m[emitted][39m[22m
+  asset [1m[32mmain.971abbee4ef95c88bc75.hot-update.json[39m[22m 42 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+Entrypoint [1mmain[39m[22m 270 KiB = [1m[32mmain.js[39m[22m 269 KiB [1m[32mmain.971abbee4ef95c88bc75.hot-update.js[39m[22m 847 bytes
+cached modules 5 MiB (javascript) 84 bytes (share-init) 84 bytes (consume-shared) [1m[32m[cached][39m[22m 46 modules
+runtime modules 41.3 KiB 16 modules
+javascript modules 847 bytes
+  [1m./src/App.jsx[39m[22m 657 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+  [1m./src/Header.jsx[39m[22m 190 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+webpack 5.75.0 compiled [1m[32msuccessfully[39m[22m in 271 ms
+assets by status 1010 KiB [1m[32m[cached][39m[22m 2 assets
+assets by status 4.46 MiB [1m[32m[emitted][39m[22m
+  assets by path [1m[32m*.js[39m[22m 4.46 MiB
+    assets by chunk 270 KiB (name: main)
+      asset [1m[32mmain.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: main)
+      asset [1m[32mmain.9d647cb60572982907c8.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: main)
+    asset [1m[32msrc_App_jsx.js[39m[22m 4.2 MiB [1m[32m[emitted][39m[22m
+    asset [1m[32msrc_App_jsx.9d647cb60572982907c8.hot-update.js[39m[22m 1.62 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+  asset [1m[32mindex.html[39m[22m 276 bytes [1m[32m[emitted][39m[22m
+  asset [1m[32mmain.9d647cb60572982907c8.hot-update.json[39m[22m 42 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+Entrypoint [1mmain[39m[22m 270 KiB = [1m[32mmain.js[39m[22m 269 KiB [1m[32mmain.9d647cb60572982907c8.hot-update.js[39m[22m 847 bytes
+cached modules 5 MiB (javascript) 84 bytes (share-init) 84 bytes (consume-shared) [1m[32m[cached][39m[22m 47 modules
+runtime modules 41.3 KiB 16 modules
+[1m./src/Header.jsx[39m[22m 192 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+webpack 5.75.0 compiled [1m[32msuccessfully[39m[22m in 98 ms
+assets by status 1010 KiB [1m[32m[cached][39m[22m 2 assets
+assets by status 4.46 MiB [1m[32m[emitted][39m[22m
+  assets by path [1m[32m*.js[39m[22m 4.46 MiB
+    assets by chunk 270 KiB (name: main)
+      asset [1m[32mmain.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: main)
+      asset [1m[32mmain.408d2a0d432ace7c4731.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: main)
+    asset [1m[32msrc_App_jsx.js[39m[22m 4.2 MiB [1m[32m[emitted][39m[22m
+    asset [1m[32msrc_App_jsx.408d2a0d432ace7c4731.hot-update.js[39m[22m 1.63 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+  asset [1m[32mindex.html[39m[22m 276 bytes [1m[32m[emitted][39m[22m
+  asset [1m[32mmain.408d2a0d432ace7c4731.hot-update.json[39m[22m 42 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+Entrypoint [1mmain[39m[22m 270 KiB = [1m[32mmain.js[39m[22m 269 KiB [1m[32mmain.408d2a0d432ace7c4731.hot-update.js[39m[22m 847 bytes
+cached modules 5 MiB (javascript) 84 bytes (share-init) 84 bytes (consume-shared) [1m[32m[cached][39m[22m 47 modules
+runtime modules 41.3 KiB 16 modules
+[1m./src/Header.jsx[39m[22m 197 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+webpack 5.75.0 compiled [1m[32msuccessfully[39m[22m in 193 ms
+assets by status 1010 KiB [1m[32m[cached][39m[22m 2 assets
+assets by status 4.46 MiB [1m[32m[emitted][39m[22m
+  assets by path [1m[32m*.js[39m[22m 4.46 MiB
+    assets by chunk 270 KiB (name: main)
+      asset [1m[32mmain.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: main)
+      asset [1m[32mmain.6d6ff7542dd1fab29b97.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: main)
+    asset [1m[32msrc_App_jsx.js[39m[22m 4.2 MiB [1m[32m[emitted][39m[22m
+    asset [1m[32msrc_App_jsx.6d6ff7542dd1fab29b97.hot-update.js[39m[22m 1.64 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+  asset [1m[32mindex.html[39m[22m 276 bytes [1m[32m[emitted][39m[22m
+  asset [1m[32mmain.6d6ff7542dd1fab29b97.hot-update.json[39m[22m 42 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+Entrypoint [1mmain[39m[22m 270 KiB = [1m[32mmain.js[39m[22m 269 KiB [1m[32mmain.6d6ff7542dd1fab29b97.hot-update.js[39m[22m 847 bytes
+cached modules 5 MiB (javascript) 84 bytes (share-init) 84 bytes (consume-shared) [1m[32m[cached][39m[22m 47 modules
+runtime modules 41.3 KiB 16 modules
+[1m./src/Header.jsx[39m[22m 209 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+webpack 5.75.0 compiled [1m[32msuccessfully[39m[22m in 150 ms
+assets by status 1010 KiB [1m[32m[cached][39m[22m 2 assets
+assets by status 4.46 MiB [1m[32m[emitted][39m[22m
+  assets by path [1m[32m*.js[39m[22m 4.46 MiB
+    assets by chunk 270 KiB (name: main)
+      asset [1m[32mmain.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: main)
+      asset [1m[32mmain.6a3d3587a6445681fc3e.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: main)
+    asset [1m[32msrc_App_jsx.js[39m[22m 4.2 MiB [1m[32m[emitted][39m[22m
+    asset [1m[32msrc_App_jsx.6a3d3587a6445681fc3e.hot-update.js[39m[22m 1.64 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+  asset [1m[32mindex.html[39m[22m 276 bytes [1m[32m[emitted][39m[22m
+  asset [1m[32mmain.6a3d3587a6445681fc3e.hot-update.json[39m[22m 42 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+Entrypoint [1mmain[39m[22m 270 KiB = [1m[32mmain.js[39m[22m 269 KiB [1m[32mmain.6a3d3587a6445681fc3e.hot-update.js[39m[22m 847 bytes
+cached modules 5 MiB (javascript) 84 bytes (share-init) 84 bytes (consume-shared) [1m[32m[cached][39m[22m 47 modules
+runtime modules 41.3 KiB 16 modules
+[1m./src/Header.jsx[39m[22m 209 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+webpack 5.75.0 compiled [1m[32msuccessfully[39m[22m in 140 ms
+assets by status 1010 KiB [1m[32m[cached][39m[22m 2 assets
+assets by status 4.46 MiB [1m[32m[emitted][39m[22m
+  assets by path [1m[32m*.js[39m[22m 4.46 MiB
+    assets by chunk 270 KiB (name: main)
+      asset [1m[32mmain.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: main)
+      asset [1m[32mmain.ad4322470cb1d0cd65c1.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: main)
+    asset [1m[32msrc_App_jsx.js[39m[22m 4.2 MiB [1m[32m[emitted][39m[22m
+    asset [1m[32msrc_App_jsx.ad4322470cb1d0cd65c1.hot-update.js[39m[22m 1.64 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+  asset [1m[32mindex.html[39m[22m 276 bytes [1m[32m[emitted][39m[22m
+  asset [1m[32mmain.ad4322470cb1d0cd65c1.hot-update.json[39m[22m 42 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+Entrypoint [1mmain[39m[22m 270 KiB = [1m[32mmain.js[39m[22m 269 KiB [1m[32mmain.ad4322470cb1d0cd65c1.hot-update.js[39m[22m 847 bytes
+cached modules 5 MiB (javascript) 84 bytes (share-init) 84 bytes (consume-shared) [1m[32m[cached][39m[22m 47 modules
+runtime modules 41.3 KiB 16 modules
+[1m./src/Header.jsx[39m[22m 214 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+webpack 5.75.0 compiled [1m[32msuccessfully[39m[22m in 140 ms
+assets by status 1010 KiB [1m[32m[cached][39m[22m 2 assets
+assets by status 4.47 MiB [1m[32m[emitted][39m[22m
+  assets by path [1m[32m*.js[39m[22m 4.47 MiB
+    assets by chunk 270 KiB (name: main)
+      asset [1m[32mmain.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: main)
+      asset [1m[32mmain.39b9f9bdabf65a720f1f.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: main)
+    asset [1m[32msrc_App_jsx.js[39m[22m 4.2 MiB [1m[32m[emitted][39m[22m
+    asset [1m[32msrc_App_jsx.39b9f9bdabf65a720f1f.hot-update.js[39m[22m 3.93 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+  asset [1m[32mindex.html[39m[22m 276 bytes [1m[32m[emitted][39m[22m
+  asset [1m[32mmain.39b9f9bdabf65a720f1f.hot-update.json[39m[22m 42 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+Entrypoint [1mmain[39m[22m 270 KiB = [1m[32mmain.js[39m[22m 269 KiB [1m[32mmain.39b9f9bdabf65a720f1f.hot-update.js[39m[22m 847 bytes
+cached modules 5 MiB (javascript) 84 bytes (share-init) 84 bytes (consume-shared) [1m[32m[cached][39m[22m 47 modules
+runtime modules 41.3 KiB 16 modules
+javascript modules 950 bytes
+  [1m./src/App.jsx[39m[22m 736 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+  [1m./src/Footer.jsx[39m[22m 214 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+webpack 5.75.0 compiled [1m[32msuccessfully[39m[22m in 198 ms
+assets by status 1010 KiB [1m[32m[cached][39m[22m 2 assets
+assets by status 4.47 MiB [1m[32m[emitted][39m[22m
+  assets by path [1m[32m*.js[39m[22m 4.47 MiB
+    assets by chunk 270 KiB (name: main)
+      asset [1m[32mmain.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: main)
+      asset [1m[32mmain.02c67f58a33957b34edd.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: main)
+    asset [1m[32msrc_App_jsx.js[39m[22m 4.2 MiB [1m[32m[emitted][39m[22m
+    asset [1m[32msrc_App_jsx.02c67f58a33957b34edd.hot-update.js[39m[22m 2.7 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+  asset [1m[32mindex.html[39m[22m 276 bytes [1m[32m[emitted][39m[22m
+  asset [1m[32mmain.02c67f58a33957b34edd.hot-update.json[39m[22m 42 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+Entrypoint [1mmain[39m[22m 270 KiB = [1m[32mmain.js[39m[22m 269 KiB [1m[32mmain.02c67f58a33957b34edd.hot-update.js[39m[22m 847 bytes
+cached modules 5 MiB (javascript) 84 bytes (share-init) 84 bytes (consume-shared) [1m[32m[cached][39m[22m 48 modules
+runtime modules 41.3 KiB 16 modules
+[1m./src/App.jsx[39m[22m 617 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+webpack 5.75.0 compiled [1m[32msuccessfully[39m[22m in 213 ms
+assets by status 1010 KiB [1m[32m[cached][39m[22m 2 assets
+assets by status 4.47 MiB [1m[32m[emitted][39m[22m
+  assets by path [1m[32m*.js[39m[22m 4.47 MiB
+    assets by chunk 270 KiB (name: main)
+      asset [1m[32mmain.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: main)
+      asset [1m[32mmain.2e3a2420bbbc25463c46.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: main)
+    asset [1m[32msrc_App_jsx.js[39m[22m 4.2 MiB [1m[32m[emitted][39m[22m
+    asset [1m[32msrc_App_jsx.2e3a2420bbbc25463c46.hot-update.js[39m[22m 2.73 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+  asset [1m[32mindex.html[39m[22m 276 bytes [1m[32m[emitted][39m[22m
+  asset [1m[32mmain.2e3a2420bbbc25463c46.hot-update.json[39m[22m 42 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+Entrypoint [1mmain[39m[22m 270 KiB = [1m[32mmain.js[39m[22m 269 KiB [1m[32mmain.2e3a2420bbbc25463c46.hot-update.js[39m[22m 847 bytes
+cached modules 5 MiB (javascript) 84 bytes (share-init) 84 bytes (consume-shared) [1m[32m[cached][39m[22m 48 modules
+runtime modules 41.3 KiB 16 modules
+[1m./src/App.jsx[39m[22m 640 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+webpack 5.75.0 compiled [1m[32msuccessfully[39m[22m in 146 ms
+assets by status 1010 KiB [1m[32m[cached][39m[22m 2 assets
+assets by status 4.47 MiB [1m[32m[emitted][39m[22m
+  assets by path [1m[32m*.js[39m[22m 4.47 MiB
+    assets by chunk 270 KiB (name: main)
+      asset [1m[32mmain.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: main)
+      asset [1m[32mmain.bbd8c3ec010f2b0950f1.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: main)
+    asset [1m[32msrc_App_jsx.js[39m[22m 4.2 MiB [1m[32m[emitted][39m[22m
+    asset [1m[32msrc_App_jsx.bbd8c3ec010f2b0950f1.hot-update.js[39m[22m 2.73 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+  asset [1m[32mindex.html[39m[22m 276 bytes [1m[32m[emitted][39m[22m
+  asset [1m[32mmain.bbd8c3ec010f2b0950f1.hot-update.json[39m[22m 42 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+Entrypoint [1mmain[39m[22m 270 KiB = [1m[32mmain.js[39m[22m 269 KiB [1m[32mmain.bbd8c3ec010f2b0950f1.hot-update.js[39m[22m 847 bytes
+cached modules 5 MiB (javascript) 84 bytes (share-init) 84 bytes (consume-shared) [1m[32m[cached][39m[22m 48 modules
+runtime modules 41.3 KiB 16 modules
+[1m./src/App.jsx[39m[22m 640 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+webpack 5.75.0 compiled [1m[32msuccessfully[39m[22m in 135 ms
+^C<i> [1m[32m[webpack-dev-server] Gracefully shutting down. To force exit, press ^C again. Please wait...[39m[22m
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;amm834@amm834-Aspire-E5-471G:~/workspace/micro-frontend/home]1;..frontend/home[0m[27m[24m[J[01;32m➜  [36mhome[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hpnpm start[?1l>[?2004l
+]2;pnpm start]1;pnpm
+> home@1.0.0 start /home/amm834/workspace/micro-frontend/home
+> webpack serve --open --mode development
+
+<i> [1m[32m[webpack-dev-server] Project is running at:[39m[22m
+<i> [1m[32m[webpack-dev-server] Loopback: [36mhttp://localhost:3000/[39m[39m[22m
+<i> [1m[32m[webpack-dev-server] On Your Network (IPv4): [36mhttp://192.168.1.6:3000/[39m[39m[22m
+<i> [1m[32m[webpack-dev-server] On Your Network (IPv6): [36mhttp://[fe80::8456:1b5e:1674:8d5f]:3000/[39m[39m[22m
+<i> [1m[32m[webpack-dev-server] Content not from webpack is served from '[36m/home/amm834/workspace/micro-frontend/home/public[39m' directory[39m[22m
+<i> [1m[32m[webpack-dev-server] 404s will fallback to '[36m/index.html[39m'[39m[22m
+<i> [1m[32m[webpack-dev-middleware] wait until bundle finished: /[39m[22m
+assets by chunk 1010 KiB (id hint: vendors)
+  asset [1m[32mvendors-node_modules_pnpm_react-dom_17_0_2_react_17_0_2_node_modules_react-dom_index_js.js[39m[22m 935 KiB [1m[32m[emitted][39m[22m (id hint: vendors)
+  asset [1m[32mvendors-node_modules_pnpm_react_17_0_2_node_modules_react_index_js.js[39m[22m 77.5 KiB [1m[32m[emitted][39m[22m (id hint: vendors)
+asset [1m[32msrc_App_jsx.js[39m[22m 4.2 MiB [1m[32m[emitted][39m[22m
+asset [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: home)
+asset [1m[32mmain.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: main)
+asset [1m[32mindex.html[39m[22m 342 bytes [1m[32m[emitted][39m[22m
+runtime modules 82.2 KiB 31 modules
+cacheable modules 5 MiB
+  modules by path [1m./node_modules/.pnpm/[39m[22m 1.12 MiB 39 modules
+  modules by path [1m./src/[39m[22m 3.88 MiB
+    modules by path [1m./src/*.jsx[39m[22m 1.04 KiB 3 modules
+    modules by path [1m./src/*.scss[39m[22m 3.88 MiB 2 modules
+    [1m./src/index.js[39m[22m 16 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+provide-module modules 84 bytes
+  [1mprovide shared module (default) react-dom@17.0.2 = ./node_modules/.pnpm/react-dom@17.0.2_react@17.0.2/node_modules/react-dom/index.js[39m[22m 42 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+  [1mprovide shared module (default) react@17.0.2 = ./node_modules/.pnpm/react@17.0.2/node_modules/react/index.js[39m[22m 42 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+consume-shared-module modules 84 bytes
+  [1mconsume shared module (default) react@^17.0.2 (singleton) (fallback: ./node_modules/.pnpm/react@17.0.2/node_modules/react/index.js)[39m[22m 42 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+  [1mconsume shared module (default) react-dom@^17.0.2 (singleton) (fallback: ./node_modules/.pnpm/react-dom@17.0.2_react@17.0.2/node_modules/react-dom/index.js)[39m[22m 42 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+[1mcontainer entry[39m[22m 42 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+
+[1m[31mERROR[39m[22m in [1mcontainer entry[39m[22m [1m[32m./Footer[0][39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve 'src/Footer.jsx' in '/home/amm834/workspace/micro-frontend/home'
+[1m[32mDid you mean './src/Footer.jsx'?[39m[22m[1m
+Requests that should resolve in the current directory need to start with './'.
+Requests that start with a name are treated as module requests and resolve within module directories (node_modules).
+If changing the source code is not an option there is also a resolve options called 'preferRelative' which tries to resolve these kind of requests in the current directory too.[39m[22m
+resolve 'src/Footer.jsx' in '/home/amm834/workspace/micro-frontend/home'
+  Parsed request is a module
+  using description file: /home/amm834/workspace/micro-frontend/home/package.json (relative path: .)
+    Field 'browser' doesn't contain a valid alias configuration
+    resolve as module
+      looking for modules in /home/amm834/workspace/micro-frontend/home/node_modules
+[1m[31m        /home/amm834/workspace/micro-frontend/home/node_modules/src doesn't exist[39m[22m
+[1m[31m      /home/amm834/workspace/micro-frontend/node_modules doesn't exist[39m[22m or is not a directory
+[1m[31m      /home/amm834/workspace/node_modules doesn't exist[39m[22m or is not a directory
+      looking for modules in /home/amm834/node_modules
+[1m[31m        /home/amm834/node_modules/src doesn't exist[39m[22m
+[1m[31m      /home/node_modules doesn't exist[39m[22m or is not a directory
+[1m[31m      /node_modules doesn't exist[39m[22m or is not a directory
+
+[1m[31mERROR[39m[22m in [1mcontainer entry[39m[22m [1m[32m./Header[0][39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve 'src/Header.jsx' in '/home/amm834/workspace/micro-frontend/home'
+[1m[32mDid you mean './src/Header.jsx'?[39m[22m[1m
+Requests that should resolve in the current directory need to start with './'.
+Requests that start with a name are treated as module requests and resolve within module directories (node_modules).
+If changing the source code is not an option there is also a resolve options called 'preferRelative' which tries to resolve these kind of requests in the current directory too.[39m[22m
+resolve 'src/Header.jsx' in '/home/amm834/workspace/micro-frontend/home'
+  Parsed request is a module
+  using description file: /home/amm834/workspace/micro-frontend/home/package.json (relative path: .)
+    Field 'browser' doesn't contain a valid alias configuration
+    resolve as module
+      looking for modules in /home/amm834/workspace/micro-frontend/home/node_modules
+[1m[31m        /home/amm834/workspace/micro-frontend/home/node_modules/src doesn't exist[39m[22m
+[1m[31m      /home/amm834/workspace/micro-frontend/node_modules doesn't exist[39m[22m or is not a directory
+[1m[31m      /home/amm834/workspace/node_modules doesn't exist[39m[22m or is not a directory
+      looking for modules in /home/amm834/node_modules
+[1m[31m        /home/amm834/node_modules/src doesn't exist[39m[22m
+[1m[31m      /home/node_modules doesn't exist[39m[22m or is not a directory
+[1m[31m      /node_modules doesn't exist[39m[22m or is not a directory
+
+webpack 5.75.0 compiled with [1m[31m2 errors[39m[22m in 14992 ms
+^C<i> [1m[32m[webpack-dev-server] Gracefully shutting down. To force exit, press ^C again. Please wait...[39m[22m
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;amm834@amm834-Aspire-E5-471G:~/workspace/micro-frontend/home]1;..frontend/home[0m[27m[24m[J[01;32m➜  [36mhome[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hpnpm start[?1l>[?2004l
+]2;pnpm start]1;pnpm
+> home@1.0.0 start /home/amm834/workspace/micro-frontend/home
+> webpack serve --open --mode development
+
+
+<i> [1m[32m[webpack-dev-server] Project is running at:[39m[22m
+<i> [1m[32m[webpack-dev-server] Loopback: [36mhttp://localhost:3000/[39m[39m[22m
+<i> [1m[32m[webpack-dev-server] On Your Network (IPv4): [36mhttp://192.168.1.6:3000/[39m[39m[22m
+<i> [1m[32m[webpack-dev-server] On Your Network (IPv6): [36mhttp://[fe80::8456:1b5e:1674:8d5f]:3000/[39m[39m[22m
+<i> [1m[32m[webpack-dev-server] Content not from webpack is served from '[36m/home/amm834/workspace/micro-frontend/home/public[39m' directory[39m[22m
+<i> [1m[32m[webpack-dev-server] 404s will fallback to '[36m/index.html[39m'[39m[22m
+<i> [1m[32m[webpack-dev-middleware] wait until bundle finished: /[39m[22m
+<i> [1m[32m[webpack-dev-middleware] wait until bundle finished: /remoteEntry.js[39m[22m
+assets by chunk 1010 KiB (id hint: vendors)
+  asset [1m[32mvendors-node_modules_pnpm_react-dom_17_0_2_react_17_0_2_node_modules_react-dom_index_js.js[39m[22m 935 KiB [1m[32m[emitted][39m[22m (id hint: vendors)
+  asset [1m[32mvendors-node_modules_pnpm_react_17_0_2_node_modules_react_index_js.js[39m[22m 77.5 KiB [1m[32m[emitted][39m[22m (id hint: vendors)
+asset [1m[32msrc_App_jsx.js[39m[22m 4.2 MiB [1m[32m[emitted][39m[22m
+asset [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: home)
+asset [1m[32mmain.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: main)
+asset [1m[32msrc_Footer_jsx.js[39m[22m 1.68 KiB [1m[32m[emitted][39m[22m
+asset [1m[32msrc_Header_jsx.js[39m[22m 1.68 KiB [1m[32m[emitted][39m[22m
+asset [1m[32mindex.html[39m[22m 342 bytes [1m[32m[emitted][39m[22m
+runtime modules 82.2 KiB 31 modules
+cacheable modules 5 MiB
+  modules by path [1m./node_modules/.pnpm/[39m[22m 1.12 MiB 39 modules
+  modules by path [1m./src/[39m[22m 3.88 MiB
+    modules by path [1m./src/*.jsx[39m[22m 1.04 KiB 3 modules
+    modules by path [1m./src/*.scss[39m[22m 3.88 MiB 2 modules
+    [1m./src/index.js[39m[22m 16 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+provide-module modules 84 bytes
+  [1mprovide shared module (default) react-dom@17.0.2 = ./node_modules/.pnpm/react-dom@17.0.2_react@17.0.2/node_modules/react-dom/index.js[39m[22m 42 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+  [1mprovide shared module (default) react@17.0.2 = ./node_modules/.pnpm/react@17.0.2/node_modules/react/index.js[39m[22m 42 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+consume-shared-module modules 84 bytes
+  [1mconsume shared module (default) react@^17.0.2 (singleton) (fallback: ./node_modules/.pnpm/react@17.0.2/node_modules/react/index.js)[39m[22m 42 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+  [1mconsume shared module (default) react-dom@^17.0.2 (singleton) (fallback: ./node_modules/.pnpm/react-dom@17.0.2_react@17.0.2/node_modules/react-dom/index.js)[39m[22m 42 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+[1mcontainer entry[39m[22m 42 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+webpack 5.75.0 compiled [1m[32msuccessfully[39m[22m in 14042 ms
+assets by status 1010 KiB [1m[32m[cached][39m[22m 3 assets
+assets by path [1m[32m*.js[39m[22m 4.73 MiB
+  assets by info 4.95 KiB [1m[32m[immutable][39m[22m
+    asset [1m[32msrc_Header_jsx.398d3fa66ead6c003fce.hot-update.js[39m[22m 1.65 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32msrc_App_jsx.398d3fa66ead6c003fce.hot-update.js[39m[22m 1.65 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mhome.398d3fa66ead6c003fce.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: home)
+    asset [1m[32mmain.398d3fa66ead6c003fce.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: main)
+  asset [1m[32msrc_App_jsx.js[39m[22m 4.2 MiB [1m[32m[emitted][39m[22m
+  asset [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: home)
+  asset [1m[32mmain.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: main)
+  asset [1m[32msrc_Header_jsx.js[39m[22m 1.69 KiB [1m[32m[emitted][39m[22m
+assets by path [1m[32m*.json[39m[22m 87 bytes
+  asset [1m[32mhome.398d3fa66ead6c003fce.hot-update.json[39m[22m 45 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+  asset [1m[32mmain.398d3fa66ead6c003fce.hot-update.json[39m[22m 42 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+asset [1m[32mindex.html[39m[22m 342 bytes [1m[32m[emitted][39m[22m
+Entrypoint [1mmain[39m[22m 270 KiB = [1m[32mmain.js[39m[22m 269 KiB [1m[32mmain.398d3fa66ead6c003fce.hot-update.js[39m[22m 847 bytes
+Entrypoint [1mhome[39m[22m 270 KiB = [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32mhome.398d3fa66ead6c003fce.hot-update.js[39m[22m 847 bytes
+cached modules 5 MiB (javascript) 84 bytes (share-init) 84 bytes (consume-shared) [1m[32m[cached][39m[22m 49 modules
+runtime modules 82.2 KiB 31 modules
+[1m./src/Header.jsx[39m[22m 217 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+webpack 5.75.0 compiled [1m[32msuccessfully[39m[22m in 320 ms
+assets by status 5.19 MiB [1m[32m[cached][39m[22m 5 assets
+assets by path [1m[32m.[39m[22m 540 KiB
+  assets by path [1m[32m*.js[39m[22m 540 KiB
+    assets by chunk 270 KiB (name: home)
+      asset [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: home)
+      asset [1m[32mhome.de556b0b2bef49ce2886.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: home)
+    assets by chunk 270 KiB (name: main)
+      asset [1m[32mmain.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: main)
+      asset [1m[32mmain.de556b0b2bef49ce2886.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: main)
+  assets by path [1m[32m*.json[39m[22m 56 bytes
+    asset [1m[32mhome.de556b0b2bef49ce2886.hot-update.json[39m[22m 28 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mmain.de556b0b2bef49ce2886.hot-update.json[39m[22m 28 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+  asset [1m[32mindex.html[39m[22m 347 bytes [1m[32m[emitted][39m[22m
+Entrypoint [1mmain[39m[22m 270 KiB = [1m[32mmain.js[39m[22m 269 KiB [1m[32mmain.de556b0b2bef49ce2886.hot-update.js[39m[22m 847 bytes
+Entrypoint [1mhome[39m[22m 270 KiB = [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32mhome.de556b0b2bef49ce2886.hot-update.js[39m[22m 847 bytes
+cached modules 5 MiB (javascript) 84 bytes (share-init) 84 bytes (consume-shared) [1m[32m[cached][39m[22m 50 modules
