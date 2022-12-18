@@ -381,3 +381,1003 @@ assets by path [1m[32m.[39m[22m 540 KiB
 Entrypoint [1mmain[39m[22m 270 KiB = [1m[32mmain.js[39m[22m 269 KiB [1m[32mmain.de556b0b2bef49ce2886.hot-update.js[39m[22m 847 bytes
 Entrypoint [1mhome[39m[22m 270 KiB = [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32mhome.de556b0b2bef49ce2886.hot-update.js[39m[22m 847 bytes
 cached modules 5 MiB (javascript) 84 bytes (share-init) 84 bytes (consume-shared) [1m[32m[cached][39m[22m 50 modules
+runtime modules 82.2 KiB 31 modules
+webpack 5.75.0 compiled [1m[32msuccessfully[39m[22m in 303 ms
+assets by status 5.19 MiB [1m[32m[cached][39m[22m 5 assets
+assets by path [1m[32m.[39m[22m 540 KiB
+  assets by path [1m[32m*.js[39m[22m 540 KiB
+    assets by chunk 270 KiB (name: home)
+      asset [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: home)
+      asset [1m[32mhome.294e949d46f4466c3142.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: home)
+    assets by chunk 270 KiB (name: main)
+      asset [1m[32mmain.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: main)
+      asset [1m[32mmain.294e949d46f4466c3142.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: main)
+  assets by path [1m[32m*.json[39m[22m 56 bytes
+    asset [1m[32mhome.294e949d46f4466c3142.hot-update.json[39m[22m 28 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mmain.294e949d46f4466c3142.hot-update.json[39m[22m 28 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+  asset [1m[32mindex.html[39m[22m 342 bytes [1m[32m[emitted][39m[22m
+Entrypoint [1mmain[39m[22m 270 KiB = [1m[32mmain.js[39m[22m 269 KiB [1m[32mmain.294e949d46f4466c3142.hot-update.js[39m[22m 847 bytes
+Entrypoint [1mhome[39m[22m 270 KiB = [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32mhome.294e949d46f4466c3142.hot-update.js[39m[22m 847 bytes
+cached modules 5 MiB (javascript) 84 bytes (share-init) 84 bytes (consume-shared) [1m[32m[cached][39m[22m 50 modules
+runtime modules 82.2 KiB 31 modules
+webpack 5.75.0 compiled [1m[32msuccessfully[39m[22m in 180 ms
+assets by status 80.9 KiB [1m[32m[cached][39m[22m 3 assets
+assets by status 579 KiB [1m[32m[emitted][39m[22m
+  assets by path [1m[32m*.js[39m[22m 575 KiB
+    assets by info 39.7 KiB [1m[32m[immutable][39m[22m
+      asset [1m[32mmain.ba309eee33b4e7277ebc.hot-update.js[39m[22m 26.6 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: main)
+      asset [1m[32msrc_App_jsx.ba309eee33b4e7277ebc.hot-update.js[39m[22m 9.65 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+      asset [1m[32mhome.ba309eee33b4e7277ebc.hot-update.js[39m[22m 3.46 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: home)
+    asset [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: home)
+    asset [1m[32mmain.js[39m[22m 257 KiB [1m[32m[emitted][39m[22m (name: main)
+    asset [1m[32msrc_App_jsx.js[39m[22m 9.69 KiB [1m[32m[emitted][39m[22m
+  assets by path [1m[32m*.json[39m[22m 3.82 KiB
+    asset [1m[32mmain.ba309eee33b4e7277ebc.hot-update.json[39m[22m 1.96 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mhome.ba309eee33b4e7277ebc.hot-update.json[39m[22m 1.86 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+  asset [1m[32mindex.html[39m[22m 342 bytes [1m[32m[emitted][39m[22m
+Entrypoint [1mmain[39m[22m 283 KiB = [1m[32mmain.js[39m[22m 257 KiB [1m[32mmain.ba309eee33b4e7277ebc.hot-update.js[39m[22m 26.6 KiB
+Entrypoint [1mhome[39m[22m 272 KiB = [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32mhome.ba309eee33b4e7277ebc.hot-update.js[39m[22m 3.46 KiB
+runtime modules 71.9 KiB 30 modules
+cached modules 233 KiB (javascript) 42 bytes (share-init) [1m[32m[cached][39m[22m 29 modules
+modules by layer 55 bytes (javascript) 42 bytes (consume-shared)
+  [1m./src/index.js[39m[22m 16 bytes [1m[33m[code generated][39m[22m
+  [1m./src/App.jsx[39m[22m 39 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m [1m[31m[1 error][39m[22m
+  [1mconsume shared module (default) react@^17.0.2 (singleton) (fallback: ./node_modules/.pnpm/react@17.0.2/node_modules/react/index.js)[39m[22m 42 bytes [1m[33m[code generated][39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/App.jsx[39m[22m
+Module build failed (from ./node_modules/.pnpm/babel-loader@8.3.0_ztqwsvkb6z73luspkai6ilstpu/node_modules/babel-loader/lib/index.js):
+SyntaxError: /home/amm834/workspace/micro-frontend/home/src/App.jsx: Unexpected token, expected "," (13:0)
+
+[0m [90m 11 |[39m[0m
+[0m [90m 12 |[39m     [33m<[39m div[0m
+[0m[31m[1m>[22m[39m[90m 13 |[39m className [33m=[39m [32m"mt-10 text-3xl mx-auto max-w-6xl"[39m [33m>[39m[0m
+[0m [90m    |[39m [31m[1m^[22m[39m[0m
+[0m [90m 14 |[39m     [33m<[39m [33mHeader[39m [33m/[39m [33m>[39m[0m
+[0m [90m 15 |[39m     [33m<[39m main[0m
+[0m [90m 16 |[39m className [33m=[39m [32m"my-8"[39m [33m>[39m[0m
+    at instantiate (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:67:32)
+    at constructor (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:364:12)
+    at JSXParserMixin.raise (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:3365:19)
+    at JSXParserMixin.unexpected (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:3398:16)
+    at JSXParserMixin.expect (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:3761:28)
+    at JSXParserMixin.parseParenAndDistinguishExpression (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:11803:14)
+    at JSXParserMixin.parseExprAtom (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:11446:23)
+    at JSXParserMixin.parseExprAtom (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:7239:20)
+    at JSXParserMixin.parseExprSubscripts (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:11171:23)
+    at JSXParserMixin.parseUpdate (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:11153:21)
+    at JSXParserMixin.parseMaybeUnary (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:11127:23)
+    at JSXParserMixin.parseMaybeUnaryOrPrivate (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:10956:61)
+    at JSXParserMixin.parseExprOps (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:10962:23)
+    at JSXParserMixin.parseMaybeConditional (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:10937:23)
+    at JSXParserMixin.parseMaybeAssign (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:10895:21)
+    at JSXParserMixin.parseFunctionBody (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:12279:24)
+    at JSXParserMixin.parseArrowExpression (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:12260:10)
+    at JSXParserMixin.parseParenAndDistinguishExpression (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:11829:12)
+    at JSXParserMixin.parseExprAtom (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:11446:23)
+    at JSXParserMixin.parseExprAtom (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:7239:20)
+    at JSXParserMixin.parseExprSubscripts (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:11171:23)
+    at JSXParserMixin.parseUpdate (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:11153:21)
+    at JSXParserMixin.parseMaybeUnary (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:11127:23)
+    at JSXParserMixin.parseMaybeUnaryOrPrivate (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:10956:61)
+    at JSXParserMixin.parseExprOps (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:10962:23)
+    at JSXParserMixin.parseMaybeConditional (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:10937:23)
+    at JSXParserMixin.parseMaybeAssign (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:10895:21)
+    at /home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:10863:39
+    at JSXParserMixin.allowInAnd (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:12635:16)
+    at JSXParserMixin.parseMaybeAssignAllowIn (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:10863:17)
+    at JSXParserMixin.parseVar (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:13639:91)
+    at JSXParserMixin.parseVarStatement (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:13458:10)
+    at JSXParserMixin.parseStatementContent (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:13039:23)
+    at JSXParserMixin.parseStatementLike (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:12952:17)
+    at JSXParserMixin.parseModuleItem (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:12933:17)
+    at JSXParserMixin.parseBlockOrModuleBlockBody (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:13558:36)
+    at JSXParserMixin.parseBlockBody (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:13550:10)
+    at JSXParserMixin.parseProgram (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:12842:10)
+    at JSXParserMixin.parseTopLevel (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:12832:25)
+    at JSXParserMixin.parse (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:14740:10)
+    at parse (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:14782:38)
+    at parser (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+core@7.20.5/node_modules/@babel/core/lib/parser/index.js:41:34)
+    at parser.next (<anonymous>)
+    at normalizeFile (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+core@7.20.5/node_modules/@babel/core/lib/transformation/normalize-file.js:66:38)
+    at normalizeFile.next (<anonymous>)
+    at run (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+core@7.20.5/node_modules/@babel/core/lib/transformation/index.js:21:50)
+    at run.next (<anonymous>)
+    at transform (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+core@7.20.5/node_modules/@babel/core/lib/transform.js:22:41)
+    at transform.next (<anonymous>)
+    at step (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/gensync@1.0.0-beta.2/node_modules/gensync/index.js:261:32)
+ @ ./src/index.js 1:0-15
+
+webpack 5.75.0 compiled with [1m[31m1 error[39m[22m in 157 ms
+assets by status 90.6 KiB [1m[32m[cached][39m[22m 4 assets
+assets by status 528 KiB [1m[32m[emitted][39m[22m
+  assets by path [1m[32m*.js[39m[22m 527 KiB
+    assets by chunk 270 KiB (name: home)
+      asset [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: home)
+      asset [1m[32mhome.06c6e5c5b9b0c9ed6ad1.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: home)
+    assets by chunk 258 KiB (name: main)
+      asset [1m[32mmain.js[39m[22m 257 KiB [1m[32m[emitted][39m[22m (name: main)
+      asset [1m[32mmain.06c6e5c5b9b0c9ed6ad1.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: main)
+  assets by path [1m[32m*.json[39m[22m 56 bytes
+    asset [1m[32mhome.06c6e5c5b9b0c9ed6ad1.hot-update.json[39m[22m 28 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mmain.06c6e5c5b9b0c9ed6ad1.hot-update.json[39m[22m 28 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+  asset [1m[32mindex.html[39m[22m 342 bytes [1m[32m[emitted][39m[22m
+Entrypoint [1mmain[39m[22m 258 KiB = [1m[32mmain.js[39m[22m 257 KiB [1m[32mmain.06c6e5c5b9b0c9ed6ad1.hot-update.js[39m[22m 847 bytes
+Entrypoint [1mhome[39m[22m 270 KiB = [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32mhome.06c6e5c5b9b0c9ed6ad1.hot-update.js[39m[22m 847 bytes
+cached modules 233 KiB (javascript) 42 bytes (share-init) 42 bytes (consume-shared) [1m[32m[cached][39m[22m 31 modules
+runtime modules 71.9 KiB 30 modules
+[1m./src/App.jsx[39m[22m 39 bytes [1m[33m[built][39m[22m [1m[31m[1 error][39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/App.jsx[39m[22m
+Module build failed (from ./node_modules/.pnpm/babel-loader@8.3.0_ztqwsvkb6z73luspkai6ilstpu/node_modules/babel-loader/lib/index.js):
+SyntaxError: /home/amm834/workspace/micro-frontend/home/src/App.jsx: Unexpected token, expected "," (12:9)
+
+[0m [90m 10 |[39m     getAllProducts()[0m
+[0m [90m 11 |[39m[0m
+[0m[31m[1m>[22m[39m[90m 12 |[39m     [33m<[39m[33mdiv[39m className[33m=[39m[32m"mt-10 text-3xl mx-auto max-w-6xl"[39m[33m>[39m[0m
+[0m [90m    |[39m          [31m[1m^[22m[39m[0m
+[0m [90m 13 |[39m         [33m<[39m[33mHeader[39m[33m/[39m[33m>[39m[0m
+[0m [90m 14 |[39m         [33m<[39m[33mmain[39m className[33m=[39m[32m"my-8"[39m[33m>[39m[0m
+[0m [90m 15 |[39m             [33m<[39m[33mh1[39m className[33m=[39m[32m"text-2xl font-bold"[39m[33m>[39m[33mHome[39m page[33m<[39m[33m/[39m[33mh1[39m[33m>[39m[0m
+    at instantiate (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:67:32)
+    at constructor (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:364:12)
+    at JSXParserMixin.raise (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:3365:19)
+    at JSXParserMixin.unexpected (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:3398:16)
+    at JSXParserMixin.expect (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:3761:28)
+    at JSXParserMixin.parseParenAndDistinguishExpression (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:11803:14)
+    at JSXParserMixin.parseExprAtom (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:11446:23)
+    at JSXParserMixin.parseExprAtom (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:7239:20)
+    at JSXParserMixin.parseExprSubscripts (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:11171:23)
+    at JSXParserMixin.parseUpdate (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:11153:21)
+    at JSXParserMixin.parseMaybeUnary (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:11127:23)
+    at JSXParserMixin.parseMaybeUnaryOrPrivate (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:10956:61)
+    at JSXParserMixin.parseExprOps (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:10962:23)
+    at JSXParserMixin.parseMaybeConditional (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:10937:23)
+    at JSXParserMixin.parseMaybeAssign (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:10895:21)
+    at JSXParserMixin.parseFunctionBody (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:12279:24)
+    at JSXParserMixin.parseArrowExpression (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:12260:10)
+    at JSXParserMixin.parseParenAndDistinguishExpression (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:11829:12)
+    at JSXParserMixin.parseExprAtom (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:11446:23)
+    at JSXParserMixin.parseExprAtom (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:7239:20)
+    at JSXParserMixin.parseExprSubscripts (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:11171:23)
+    at JSXParserMixin.parseUpdate (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:11153:21)
+    at JSXParserMixin.parseMaybeUnary (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:11127:23)
+    at JSXParserMixin.parseMaybeUnaryOrPrivate (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:10956:61)
+    at JSXParserMixin.parseExprOps (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:10962:23)
+    at JSXParserMixin.parseMaybeConditional (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:10937:23)
+    at JSXParserMixin.parseMaybeAssign (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:10895:21)
+    at /home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:10863:39
+    at JSXParserMixin.allowInAnd (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:12635:16)
+    at JSXParserMixin.parseMaybeAssignAllowIn (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:10863:17)
+    at JSXParserMixin.parseVar (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:13639:91)
+    at JSXParserMixin.parseVarStatement (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:13458:10)
+    at JSXParserMixin.parseStatementContent (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:13039:23)
+    at JSXParserMixin.parseStatementLike (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:12952:17)
+    at JSXParserMixin.parseModuleItem (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:12933:17)
+    at JSXParserMixin.parseBlockOrModuleBlockBody (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:13558:36)
+    at JSXParserMixin.parseBlockBody (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:13550:10)
+    at JSXParserMixin.parseProgram (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:12842:10)
+    at JSXParserMixin.parseTopLevel (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:12832:25)
+    at JSXParserMixin.parse (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:14740:10)
+    at parse (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:14782:38)
+    at parser (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+core@7.20.5/node_modules/@babel/core/lib/parser/index.js:41:34)
+    at parser.next (<anonymous>)
+    at normalizeFile (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+core@7.20.5/node_modules/@babel/core/lib/transformation/normalize-file.js:66:38)
+    at normalizeFile.next (<anonymous>)
+    at run (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+core@7.20.5/node_modules/@babel/core/lib/transformation/index.js:21:50)
+    at run.next (<anonymous>)
+    at transform (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+core@7.20.5/node_modules/@babel/core/lib/transform.js:22:41)
+    at transform.next (<anonymous>)
+    at step (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/gensync@1.0.0-beta.2/node_modules/gensync/index.js:261:32)
+ @ ./src/index.js 1:0-15
+
+webpack 5.75.0 compiled with [1m[31m1 error[39m[22m in 159 ms
+assets by status 1020 KiB [1m[32m[cached][39m[22m 4 assets
+assets by status 8.97 MiB [1m[32m[emitted][39m[22m
+  assets by path [1m[32m*.js[39m[22m 8.97 MiB
+    assets by info 4.24 MiB [1m[32m[immutable][39m[22m
+      asset [1m[32msrc_App_jsx.53b6d3c91d503a4020fc.hot-update.js[39m[22m 4.2 MiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+      asset [1m[32mmain.53b6d3c91d503a4020fc.hot-update.js[39m[22m 38.3 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: main)
+      asset [1m[32mhome.53b6d3c91d503a4020fc.hot-update.js[39m[22m 3.92 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: home)
+    asset [1m[32msrc_App_jsx.js[39m[22m 4.2 MiB [1m[32m[emitted][39m[22m
+    asset [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: home)
+    asset [1m[32mmain.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: main)
+  assets by path [1m[32m*.json[39m[22m 70 bytes
+    asset [1m[32mmain.53b6d3c91d503a4020fc.hot-update.json[39m[22m 42 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mhome.53b6d3c91d503a4020fc.hot-update.json[39m[22m 28 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+  asset [1m[32mindex.html[39m[22m 342 bytes [1m[32m[emitted][39m[22m
+Entrypoint [1mmain[39m[22m 307 KiB = [1m[32mmain.js[39m[22m 269 KiB [1m[32mmain.53b6d3c91d503a4020fc.hot-update.js[39m[22m 38.3 KiB
+Entrypoint [1mhome[39m[22m 273 KiB = [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32mhome.53b6d3c91d503a4020fc.hot-update.js[39m[22m 3.92 KiB
+cached modules 5 MiB (javascript) 84 bytes (share-init) 84 bytes (consume-shared) [1m[32m[cached][39m[22m 48 modules
+runtime modules 82.2 KiB 31 modules
+javascript modules 1.08 KiB
+  [1m./src/index.js[39m[22m 16 bytes [1m[33m[code generated][39m[22m
+  [1m./src/App.jsx[39m[22m 685 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+  [1m./src/products.js[39m[22m 406 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+webpack 5.75.0 compiled [1m[32msuccessfully[39m[22m in 270 ms
+assets by status 5.72 MiB [1m[32m[cached][39m[22m 7 assets
+asset [1m[32mindex.html[39m[22m 342 bytes [1m[32m[emitted][39m[22m
+cached modules 5 MiB (javascript) 84 bytes (share-init) 84 bytes (consume-shared) 82.2 KiB (runtime) [1m[32m[cached][39m[22m 81 modules
+[1m./src/App.jsx[39m[22m 685 bytes [1m[33m[built][39m[22m
+webpack 5.75.0 compiled [1m[32msuccessfully[39m[22m in 140 ms
+assets by status 1020 KiB [1m[32m[cached][39m[22m 4 assets
+assets by status 4.73 MiB [1m[32m[emitted][39m[22m
+  assets by path [1m[32m*.js[39m[22m 4.73 MiB
+    assets by info 4.57 KiB [1m[32m[immutable][39m[22m
+      asset [1m[32msrc_App_jsx.a881db836927dad2e916.hot-update.js[39m[22m 2.92 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+      asset [1m[32mhome.a881db836927dad2e916.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: home)
+      asset [1m[32mmain.a881db836927dad2e916.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: main)
+    asset [1m[32msrc_App_jsx.js[39m[22m 4.2 MiB [1m[32m[emitted][39m[22m
+    asset [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: home)
+    asset [1m[32mmain.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: main)
+  assets by path [1m[32m*.json[39m[22m 70 bytes
+    asset [1m[32mmain.a881db836927dad2e916.hot-update.json[39m[22m 42 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mhome.a881db836927dad2e916.hot-update.json[39m[22m 28 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+  asset [1m[32mindex.html[39m[22m 342 bytes [1m[32m[emitted][39m[22m
+Entrypoint [1mmain[39m[22m 270 KiB = [1m[32mmain.js[39m[22m 269 KiB [1m[32mmain.a881db836927dad2e916.hot-update.js[39m[22m 847 bytes
+Entrypoint [1mhome[39m[22m 270 KiB = [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32mhome.a881db836927dad2e916.hot-update.js[39m[22m 847 bytes
+cached modules 5 MiB (javascript) 84 bytes (share-init) 84 bytes (consume-shared) [1m[32m[cached][39m[22m 50 modules
+runtime modules 82.2 KiB 31 modules
+[1m./src/App.jsx[39m[22m 705 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+webpack 5.75.0 compiled [1m[32msuccessfully[39m[22m in 138 ms
+assets by status 5.72 MiB [1m[32m[cached][39m[22m 7 assets
+asset [1m[32mindex.html[39m[22m 342 bytes [1m[32m[emitted][39m[22m
+cached modules 5 MiB (javascript) 84 bytes (share-init) 84 bytes (consume-shared) 82.2 KiB (runtime) [1m[32m[cached][39m[22m 81 modules
+[1m./src/App.jsx[39m[22m 705 bytes [1m[33m[built][39m[22m
+webpack 5.75.0 compiled [1m[32msuccessfully[39m[22m in 158 ms
+assets by status 80.9 KiB [1m[32m[cached][39m[22m 3 assets
+assets by status 581 KiB [1m[32m[emitted][39m[22m
+  assets by path [1m[32m*.js[39m[22m 576 KiB
+    assets by info 40.3 KiB [1m[32m[immutable][39m[22m
+      asset [1m[32mmain.ed7f872c04cd068a46ba.hot-update.js[39m[22m 26.6 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: main)
+      asset [1m[32msrc_App_jsx.ed7f872c04cd068a46ba.hot-update.js[39m[22m 10.3 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+      asset [1m[32mhome.ed7f872c04cd068a46ba.hot-update.js[39m[22m 3.46 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: home)
+    asset [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: home)
+    asset [1m[32mmain.js[39m[22m 257 KiB [1m[32m[emitted][39m[22m (name: main)
+    asset [1m[32msrc_App_jsx.js[39m[22m 10.3 KiB [1m[32m[emitted][39m[22m
+  assets by path [1m[32m*.json[39m[22m 3.86 KiB
+    asset [1m[32mmain.ed7f872c04cd068a46ba.hot-update.json[39m[22m 1.98 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mhome.ed7f872c04cd068a46ba.hot-update.json[39m[22m 1.88 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+  asset [1m[32mindex.html[39m[22m 342 bytes [1m[32m[emitted][39m[22m
+Entrypoint [1mmain[39m[22m 283 KiB = [1m[32mmain.js[39m[22m 257 KiB [1m[32mmain.ed7f872c04cd068a46ba.hot-update.js[39m[22m 26.6 KiB
+Entrypoint [1mhome[39m[22m 272 KiB = [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32mhome.ed7f872c04cd068a46ba.hot-update.js[39m[22m 3.46 KiB
+cached modules 233 KiB (javascript) 42 bytes (share-init) 42 bytes (consume-shared) [1m[32m[cached][39m[22m 30 modules
+runtime modules 71.9 KiB 30 modules
+javascript modules 55 bytes
+  [1m./src/index.js[39m[22m 16 bytes [1m[33m[code generated][39m[22m
+  [1m./src/App.jsx[39m[22m 39 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m [1m[31m[1 error][39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/App.jsx[39m[22m
+Module build failed (from ./node_modules/.pnpm/babel-loader@8.3.0_ztqwsvkb6z73luspkai6ilstpu/node_modules/babel-loader/lib/index.js):
+SyntaxError: /home/amm834/workspace/micro-frontend/home/src/App.jsx: Unexpected reserved word 'await'. (10:4)
+
+[0m [90m  8 |[39m[0m
+[0m [90m  9 |[39m [36mconst[39m [33mApp[39m [33m=[39m () [33m=>[39m {[0m
+[0m[31m[1m>[22m[39m[90m 10 |[39m     [36mawait[39m getAllProducts()[0m
+[0m [90m    |[39m     [31m[1m^[22m[39m[0m
+[0m [90m 11 |[39m[0m
+[0m [90m 12 |[39m     [36mreturn[39m ([0m
+[0m [90m 13 |[39m         [33m<[39m[33mdiv[39m className[33m=[39m[32m"mt-10 text-3xl mx-auto max-w-6xl"[39m[33m>[39m[0m
+    at instantiate (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:67:32)
+    at constructor (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:364:12)
+    at JSXParserMixin.raise (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:3365:19)
+    at JSXParserMixin.checkReservedWord (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:12464:12)
+    at JSXParserMixin.parseIdentifierName (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:12412:12)
+    at JSXParserMixin.parseIdentifier (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:12387:23)
+    at JSXParserMixin.parseExprAtom (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:11542:27)
+    at JSXParserMixin.parseExprAtom (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:7239:20)
+    at JSXParserMixin.parseExprSubscripts (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:11171:23)
+    at JSXParserMixin.parseUpdate (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:11153:21)
+    at JSXParserMixin.parseMaybeUnary (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:11127:23)
+    at JSXParserMixin.parseMaybeUnaryOrPrivate (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:10956:61)
+    at JSXParserMixin.parseExprOps (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:10962:23)
+    at JSXParserMixin.parseMaybeConditional (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:10937:23)
+    at JSXParserMixin.parseMaybeAssign (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:10895:21)
+    at JSXParserMixin.parseExpressionBase (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:10845:23)
+    at /home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:10840:39
+    at JSXParserMixin.allowInAnd (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:12635:16)
+    at JSXParserMixin.parseExpression (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:10840:17)
+    at JSXParserMixin.parseStatementContent (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:13096:23)
+    at JSXParserMixin.parseStatementLike (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:12952:17)
+    at JSXParserMixin.parseStatementListItem (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:12937:17)
+    at JSXParserMixin.parseBlockOrModuleBlockBody (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:13558:61)
+    at JSXParserMixin.parseBlockBody (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:13550:10)
+    at JSXParserMixin.parseBlock (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:13538:10)
+    at JSXParserMixin.parseFunctionBody (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:12287:24)
+    at JSXParserMixin.parseArrowExpression (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:12260:10)
+    at JSXParserMixin.parseParenAndDistinguishExpression (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:11829:12)
+    at JSXParserMixin.parseExprAtom (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:11446:23)
+    at JSXParserMixin.parseExprAtom (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:7239:20)
+    at JSXParserMixin.parseExprSubscripts (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:11171:23)
+    at JSXParserMixin.parseUpdate (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:11153:21)
+    at JSXParserMixin.parseMaybeUnary (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:11127:23)
+    at JSXParserMixin.parseMaybeUnaryOrPrivate (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:10956:61)
+    at JSXParserMixin.parseExprOps (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:10962:23)
+    at JSXParserMixin.parseMaybeConditional (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:10937:23)
+    at JSXParserMixin.parseMaybeAssign (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:10895:21)
+    at /home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:10863:39
+    at JSXParserMixin.allowInAnd (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:12635:16)
+    at JSXParserMixin.parseMaybeAssignAllowIn (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:10863:17)
+    at JSXParserMixin.parseVar (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:13639:91)
+    at JSXParserMixin.parseVarStatement (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:13458:10)
+    at JSXParserMixin.parseStatementContent (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:13039:23)
+    at JSXParserMixin.parseStatementLike (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:12952:17)
+    at JSXParserMixin.parseModuleItem (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:12933:17)
+    at JSXParserMixin.parseBlockOrModuleBlockBody (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:13558:36)
+    at JSXParserMixin.parseBlockBody (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:13550:10)
+    at JSXParserMixin.parseProgram (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:12842:10)
+    at JSXParserMixin.parseTopLevel (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:12832:25)
+    at JSXParserMixin.parse (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:14740:10)
+ @ ./src/index.js 1:0-15
+
+webpack 5.75.0 compiled with [1m[31m1 error[39m[22m in 231 ms
+assets by status 1020 KiB [1m[32m[cached][39m[22m 4 assets
+assets by status 8.98 MiB [1m[32m[emitted][39m[22m
+  assets by path [1m[32m*.js[39m[22m 8.98 MiB
+    assets by info 4.23 MiB [1m[32m[immutable][39m[22m
+      asset [1m[32msrc_App_jsx.224c9c47f6d4bdfebba9.hot-update.js[39m[22m 4.19 MiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+      asset [1m[32mmain.224c9c47f6d4bdfebba9.hot-update.js[39m[22m 38.5 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: main)
+      asset [1m[32mhome.224c9c47f6d4bdfebba9.hot-update.js[39m[22m 3.92 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: home)
+    asset [1m[32msrc_App_jsx.js[39m[22m 4.19 MiB [1m[32m[emitted][39m[22m
+    asset [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: home)
+    asset [1m[32mmain.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: main)
+    asset [1m[32mvendors-node_modules_pnpm_babel_runtime_7_20_6_node_modules_babel_runtime_helpers_esm_asyncTo-95e891.js[39m[22m 33.7 KiB [1m[32m[emitted][39m[22m (id hint: vendors)
+  assets by path [1m[32m*.json[39m[22m 70 bytes
+    asset [1m[32mmain.224c9c47f6d4bdfebba9.hot-update.json[39m[22m 42 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mhome.224c9c47f6d4bdfebba9.hot-update.json[39m[22m 28 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+  asset [1m[32mindex.html[39m[22m 342 bytes [1m[32m[emitted][39m[22m
+Entrypoint [1mmain[39m[22m 307 KiB = [1m[32mmain.js[39m[22m 269 KiB [1m[32mmain.224c9c47f6d4bdfebba9.hot-update.js[39m[22m 38.5 KiB
+Entrypoint [1mhome[39m[22m 273 KiB = [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32mhome.224c9c47f6d4bdfebba9.hot-update.js[39m[22m 3.92 KiB
+cached modules 5 MiB (javascript) 84 bytes (share-init) 84 bytes (consume-shared) [1m[32m[cached][39m[22m 49 modules
+runtime modules 82.2 KiB 31 modules
+javascript modules 17 KiB
+  modules by path [1m./node_modules/.pnpm/@babel+runtime@7.20.6/node_modules/@babel/runtime/[39m[22m 15.5 KiB
+    modules by path [1m./node_modules/.pnpm/@babel+runtime@7.20.6/node_modules/@babel/runtime/helpers/*.js[39m[22m 14.3 KiB
+      [1m./node_modules/.pnpm/@babel+runtime@7.20.6/node_modules/@babel/runtime/helpers/regeneratorRuntime.js[39m[22m 13.8 KiB [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+      [1m./node_modules/.pnpm/@babel+runtime@7.20.6/node_modules/@babel/runtime/helpers/typeof.js[39m[22m 554 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+    [1m./node_modules/.pnpm/@babel+runtime@7.20.6/node_modules/@babel/runtime/helpers/esm/asyncToGenerator.js[39m[22m 780 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+    [1m./node_modules/.pnpm/@babel+runtime@7.20.6/node_modules/@babel/runtime/regenerator/index.js[39m[22m 448 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+  modules by path [1m./src/[39m[22m 1.52 KiB
+    [1m./src/index.js[39m[22m 16 bytes [1m[33m[code generated][39m[22m
+    [1m./src/App.jsx[39m[22m 1.5 KiB [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+webpack 5.75.0 compiled [1m[32msuccessfully[39m[22m in 404 ms
+assets by status 1.03 MiB [1m[32m[cached][39m[22m 5 assets
+assets by status 4.72 MiB [1m[32m[emitted][39m[22m
+  assets by path [1m[32m*.js[39m[22m 4.72 MiB
+    assets by info 5.98 KiB [1m[32m[immutable][39m[22m
+      asset [1m[32msrc_App_jsx.4a1e6d2b82023cb42468.hot-update.js[39m[22m 4.32 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+      asset [1m[32mhome.4a1e6d2b82023cb42468.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: home)
+      asset [1m[32mmain.4a1e6d2b82023cb42468.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: main)
+    asset [1m[32msrc_App_jsx.js[39m[22m 4.19 MiB [1m[32m[emitted][39m[22m
+    asset [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: home)
+    asset [1m[32mmain.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: main)
+  assets by path [1m[32m*.json[39m[22m 70 bytes
+    asset [1m[32mmain.4a1e6d2b82023cb42468.hot-update.json[39m[22m 42 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mhome.4a1e6d2b82023cb42468.hot-update.json[39m[22m 28 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+  asset [1m[32mindex.html[39m[22m 342 bytes [1m[32m[emitted][39m[22m
+Entrypoint [1mmain[39m[22m 270 KiB = [1m[32mmain.js[39m[22m 269 KiB [1m[32mmain.4a1e6d2b82023cb42468.hot-update.js[39m[22m 847 bytes
+Entrypoint [1mhome[39m[22m 270 KiB = [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32mhome.4a1e6d2b82023cb42468.hot-update.js[39m[22m 847 bytes
+cached modules 5.01 MiB (javascript) 84 bytes (share-init) 84 bytes (consume-shared) [1m[32m[cached][39m[22m 54 modules
+runtime modules 82.2 KiB 31 modules
+[1m./src/App.jsx[39m[22m 1.38 KiB [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+webpack 5.75.0 compiled [1m[32msuccessfully[39m[22m in 239 ms
+assets by status 1.03 MiB [1m[32m[cached][39m[22m 5 assets
+assets by status 4.72 MiB [1m[32m[emitted][39m[22m
+  assets by path [1m[32m*.js[39m[22m 4.72 MiB
+    assets by info 6.14 KiB [1m[32m[immutable][39m[22m
+      asset [1m[32msrc_App_jsx.883b34dd6d6a11f5b9c3.hot-update.js[39m[22m 4.48 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+      asset [1m[32mhome.883b34dd6d6a11f5b9c3.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: home)
+      asset [1m[32mmain.883b34dd6d6a11f5b9c3.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: main)
+    asset [1m[32msrc_App_jsx.js[39m[22m 4.19 MiB [1m[32m[emitted][39m[22m
+    asset [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: home)
+    asset [1m[32mmain.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: main)
+  assets by path [1m[32m*.json[39m[22m 70 bytes
+    asset [1m[32mmain.883b34dd6d6a11f5b9c3.hot-update.json[39m[22m 42 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mhome.883b34dd6d6a11f5b9c3.hot-update.json[39m[22m 28 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+  asset [1m[32mindex.html[39m[22m 342 bytes [1m[32m[emitted][39m[22m
+Entrypoint [1mmain[39m[22m 270 KiB = [1m[32mmain.js[39m[22m 269 KiB [1m[32mmain.883b34dd6d6a11f5b9c3.hot-update.js[39m[22m 847 bytes
+Entrypoint [1mhome[39m[22m 270 KiB = [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32mhome.883b34dd6d6a11f5b9c3.hot-update.js[39m[22m 847 bytes
+cached modules 5.01 MiB (javascript) 84 bytes (share-init) 84 bytes (consume-shared) [1m[32m[cached][39m[22m 54 modules
+runtime modules 82.2 KiB 31 modules
+[1m./src/App.jsx[39m[22m 1.5 KiB [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+webpack 5.75.0 compiled [1m[32msuccessfully[39m[22m in 400 ms
+assets by status 1020 KiB [1m[32m[cached][39m[22m 4 assets
+assets by status 4.75 MiB [1m[32m[emitted][39m[22m
+  assets by path [1m[32m*.js[39m[22m 4.75 MiB
+    assets by info 19 KiB [1m[32m[immutable][39m[22m
+      asset [1m[32msrc_App_jsx.0d3c27695baf035bd2a0.hot-update.js[39m[22m 16.8 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+      asset [1m[32mmain.0d3c27695baf035bd2a0.hot-update.js[39m[22m 1.29 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: main)
+      asset [1m[32mhome.0d3c27695baf035bd2a0.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: home)
+    asset [1m[32msrc_App_jsx.js[39m[22m 4.2 MiB [1m[32m[emitted][39m[22m
+    asset [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: home)
+    asset [1m[32mmain.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: main)
+  assets by path [1m[32m*.json[39m[22m 956 bytes
+    asset [1m[32mmain.0d3c27695baf035bd2a0.hot-update.json[39m[22m 536 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mhome.0d3c27695baf035bd2a0.hot-update.json[39m[22m 420 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+  asset [1m[32mindex.html[39m[22m 342 bytes [1m[32m[emitted][39m[22m
+Entrypoint [1mmain[39m[22m 270 KiB = [1m[32mmain.js[39m[22m 269 KiB [1m[32mmain.0d3c27695baf035bd2a0.hot-update.js[39m[22m 1.29 KiB
+Entrypoint [1mhome[39m[22m 270 KiB = [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32mhome.0d3c27695baf035bd2a0.hot-update.js[39m[22m 847 bytes
+cached modules 5 MiB (javascript) 84 bytes (share-init) 84 bytes (consume-shared) [1m[32m[cached][39m[22m 49 modules
+runtime modules 82.2 KiB 31 modules
+javascript modules 827 bytes
+  [1m./src/index.js[39m[22m 16 bytes [1m[33m[code generated][39m[22m
+  [1m./src/App.jsx[39m[22m 811 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+webpack 5.75.0 compiled [1m[32msuccessfully[39m[22m in 187 ms
+assets by status 1020 KiB [1m[32m[cached][39m[22m 4 assets
+assets by status 4.73 MiB [1m[32m[emitted][39m[22m
+  assets by path [1m[32m*.js[39m[22m 4.73 MiB
+    assets by info 4.51 KiB [1m[32m[immutable][39m[22m
+      asset [1m[32msrc_App_jsx.f5d1aaa3dabbbbf12015.hot-update.js[39m[22m 2.86 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+      asset [1m[32mhome.f5d1aaa3dabbbbf12015.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: home)
+      asset [1m[32mmain.f5d1aaa3dabbbbf12015.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: main)
+    asset [1m[32msrc_App_jsx.js[39m[22m 4.2 MiB [1m[32m[emitted][39m[22m
+    asset [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: home)
+    asset [1m[32mmain.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: main)
+  assets by path [1m[32m*.json[39m[22m 70 bytes
+    asset [1m[32mmain.f5d1aaa3dabbbbf12015.hot-update.json[39m[22m 42 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mhome.f5d1aaa3dabbbbf12015.hot-update.json[39m[22m 28 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+  asset [1m[32mindex.html[39m[22m 342 bytes [1m[32m[emitted][39m[22m
+Entrypoint [1mmain[39m[22m 270 KiB = [1m[32mmain.js[39m[22m 269 KiB [1m[32mmain.f5d1aaa3dabbbbf12015.hot-update.js[39m[22m 847 bytes
+Entrypoint [1mhome[39m[22m 270 KiB = [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32mhome.f5d1aaa3dabbbbf12015.hot-update.js[39m[22m 847 bytes
+cached modules 5 MiB (javascript) 84 bytes (share-init) 84 bytes (consume-shared) [1m[32m[cached][39m[22m 50 modules
+runtime modules 82.2 KiB 31 modules
+[1m./src/App.jsx[39m[22m 700 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+webpack 5.75.0 compiled [1m[32msuccessfully[39m[22m in 142 ms
+assets by status 1020 KiB [1m[32m[cached][39m[22m 4 assets
+assets by status 4.73 MiB [1m[32m[emitted][39m[22m
+  assets by path [1m[32m*.js[39m[22m 4.73 MiB
+    assets by info 4.58 KiB [1m[32m[immutable][39m[22m
+      asset [1m[32msrc_App_jsx.62372e0f88352e6583c9.hot-update.js[39m[22m 2.93 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+      asset [1m[32mhome.62372e0f88352e6583c9.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: home)
+      asset [1m[32mmain.62372e0f88352e6583c9.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: main)
+    asset [1m[32msrc_App_jsx.js[39m[22m 4.2 MiB [1m[32m[emitted][39m[22m
+    asset [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: home)
+    asset [1m[32mmain.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: main)
+  assets by path [1m[32m*.json[39m[22m 70 bytes
+    asset [1m[32mmain.62372e0f88352e6583c9.hot-update.json[39m[22m 42 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mhome.62372e0f88352e6583c9.hot-update.json[39m[22m 28 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+  asset [1m[32mindex.html[39m[22m 342 bytes [1m[32m[emitted][39m[22m
+Entrypoint [1mmain[39m[22m 270 KiB = [1m[32mmain.js[39m[22m 269 KiB [1m[32mmain.62372e0f88352e6583c9.hot-update.js[39m[22m 847 bytes
+Entrypoint [1mhome[39m[22m 270 KiB = [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32mhome.62372e0f88352e6583c9.hot-update.js[39m[22m 847 bytes
+cached modules 5 MiB (javascript) 84 bytes (share-init) 84 bytes (consume-shared) [1m[32m[cached][39m[22m 50 modules
+runtime modules 82.2 KiB 31 modules
+[1m./src/App.jsx[39m[22m 733 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+webpack 5.75.0 compiled [1m[32msuccessfully[39m[22m in 209 ms
+assets by status 1020 KiB [1m[32m[cached][39m[22m 4 assets
+assets by status 4.73 MiB [1m[32m[emitted][39m[22m
+  assets by path [1m[32m*.js[39m[22m 4.73 MiB
+    assets by info 4.7 KiB [1m[32m[immutable][39m[22m
+      asset [1m[32msrc_App_jsx.7d339d6fafa8b81ea81b.hot-update.js[39m[22m 3.05 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+      asset [1m[32mhome.7d339d6fafa8b81ea81b.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: home)
+      asset [1m[32mmain.7d339d6fafa8b81ea81b.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: main)
+    asset [1m[32msrc_App_jsx.js[39m[22m 4.2 MiB [1m[32m[emitted][39m[22m
+    asset [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: home)
+    asset [1m[32mmain.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: main)
+  assets by path [1m[32m*.json[39m[22m 70 bytes
+    asset [1m[32mmain.7d339d6fafa8b81ea81b.hot-update.json[39m[22m 42 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mhome.7d339d6fafa8b81ea81b.hot-update.json[39m[22m 28 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+  asset [1m[32mindex.html[39m[22m 342 bytes [1m[32m[emitted][39m[22m
+Entrypoint [1mmain[39m[22m 270 KiB = [1m[32mmain.js[39m[22m 269 KiB [1m[32mmain.7d339d6fafa8b81ea81b.hot-update.js[39m[22m 847 bytes
+Entrypoint [1mhome[39m[22m 270 KiB = [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32mhome.7d339d6fafa8b81ea81b.hot-update.js[39m[22m 847 bytes
+cached modules 5 MiB (javascript) 84 bytes (share-init) 84 bytes (consume-shared) [1m[32m[cached][39m[22m 50 modules
+runtime modules 82.2 KiB 31 modules
+[1m./src/App.jsx[39m[22m 811 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+webpack 5.75.0 compiled [1m[32msuccessfully[39m[22m in 224 ms
+assets by status 5.72 MiB [1m[32m[cached][39m[22m 7 assets
+asset [1m[32mindex.html[39m[22m 342 bytes [1m[32m[emitted][39m[22m
+cached modules 5 MiB (javascript) 84 bytes (share-init) 84 bytes (consume-shared) 82.2 KiB (runtime) [1m[32m[cached][39m[22m 81 modules
+[1m./src/App.jsx[39m[22m 811 bytes [1m[33m[built][39m[22m
+webpack 5.75.0 compiled [1m[32msuccessfully[39m[22m in 164 ms
+assets by status 1020 KiB [1m[32m[cached][39m[22m 4 assets
+assets by status 4.73 MiB [1m[32m[emitted][39m[22m
+  assets by path [1m[32m*.js[39m[22m 4.73 MiB
+    assets by info 4.62 KiB [1m[32m[immutable][39m[22m
+      asset [1m[32msrc_App_jsx.95c46cc1a288d5731d13.hot-update.js[39m[22m 2.97 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+      asset [1m[32mhome.95c46cc1a288d5731d13.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: home)
+      asset [1m[32mmain.95c46cc1a288d5731d13.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: main)
+    asset [1m[32msrc_App_jsx.js[39m[22m 4.2 MiB [1m[32m[emitted][39m[22m
+    asset [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: home)
+    asset [1m[32mmain.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: main)
+  assets by path [1m[32m*.json[39m[22m 70 bytes
+    asset [1m[32mmain.95c46cc1a288d5731d13.hot-update.json[39m[22m 42 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mhome.95c46cc1a288d5731d13.hot-update.json[39m[22m 28 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+  asset [1m[32mindex.html[39m[22m 342 bytes [1m[32m[emitted][39m[22m
+Entrypoint [1mmain[39m[22m 270 KiB = [1m[32mmain.js[39m[22m 269 KiB [1m[32mmain.95c46cc1a288d5731d13.hot-update.js[39m[22m 847 bytes
+Entrypoint [1mhome[39m[22m 270 KiB = [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32mhome.95c46cc1a288d5731d13.hot-update.js[39m[22m 847 bytes
+cached modules 5 MiB (javascript) 84 bytes (share-init) 84 bytes (consume-shared) [1m[32m[cached][39m[22m 50 modules
+runtime modules 82.2 KiB 31 modules
+[1m./src/App.jsx[39m[22m 769 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+webpack 5.75.0 compiled [1m[32msuccessfully[39m[22m in 195 ms
+assets by status 1020 KiB [1m[32m[cached][39m[22m 4 assets
+assets by status 4.73 MiB [1m[32m[emitted][39m[22m
+  assets by path [1m[32m*.js[39m[22m 4.73 MiB
+    assets by info 4.38 KiB [1m[32m[immutable][39m[22m
+      asset [1m[32msrc_App_jsx.a5a85991c5afc61388eb.hot-update.js[39m[22m 2.73 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+      asset [1m[32mhome.a5a85991c5afc61388eb.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: home)
+      asset [1m[32mmain.a5a85991c5afc61388eb.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: main)
+    asset [1m[32msrc_App_jsx.js[39m[22m 4.2 MiB [1m[32m[emitted][39m[22m
+    asset [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: home)
+    asset [1m[32mmain.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: main)
+  assets by path [1m[32m*.json[39m[22m 108 bytes
+    asset [1m[32mmain.a5a85991c5afc61388eb.hot-update.json[39m[22m 61 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mhome.a5a85991c5afc61388eb.hot-update.json[39m[22m 47 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+  asset [1m[32mindex.html[39m[22m 342 bytes [1m[32m[emitted][39m[22m
+Entrypoint [1mmain[39m[22m 270 KiB = [1m[32mmain.js[39m[22m 269 KiB [1m[32mmain.a5a85991c5afc61388eb.hot-update.js[39m[22m 847 bytes
+Entrypoint [1mhome[39m[22m 270 KiB = [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32mhome.a5a85991c5afc61388eb.hot-update.js[39m[22m 847 bytes
+cached modules 5 MiB (javascript) 84 bytes (share-init) 84 bytes (consume-shared) [1m[32m[cached][39m[22m 49 modules
+runtime modules 82.2 KiB 31 modules
+[1m./src/App.jsx[39m[22m 640 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+webpack 5.75.0 compiled [1m[32msuccessfully[39m[22m in 150 ms
+assets by status 1020 KiB [1m[32m[cached][39m[22m 4 assets
+assets by status 4.73 MiB [1m[32m[emitted][39m[22m
+  assets by path [1m[32m*.js[39m[22m 4.73 MiB
+    assets by info 5.65 KiB [1m[32m[immutable][39m[22m
+      asset [1m[32msrc_App_jsx.8bbabe26fa1e4291eee5.hot-update.js[39m[22m 4 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+      asset [1m[32mhome.8bbabe26fa1e4291eee5.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: home)
+      asset [1m[32mmain.8bbabe26fa1e4291eee5.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: main)
+    asset [1m[32msrc_App_jsx.js[39m[22m 4.2 MiB [1m[32m[emitted][39m[22m
+    asset [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: home)
+    asset [1m[32mmain.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: main)
+  assets by path [1m[32m*.json[39m[22m 70 bytes
+    asset [1m[32mmain.8bbabe26fa1e4291eee5.hot-update.json[39m[22m 42 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mhome.8bbabe26fa1e4291eee5.hot-update.json[39m[22m 28 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+  asset [1m[32mindex.html[39m[22m 342 bytes [1m[32m[emitted][39m[22m
+Entrypoint [1mmain[39m[22m 270 KiB = [1m[32mmain.js[39m[22m 269 KiB [1m[32mmain.8bbabe26fa1e4291eee5.hot-update.js[39m[22m 847 bytes
+Entrypoint [1mhome[39m[22m 270 KiB = [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32mhome.8bbabe26fa1e4291eee5.hot-update.js[39m[22m 847 bytes
+cached modules 5 MiB (javascript) 84 bytes (share-init) 84 bytes (consume-shared) [1m[32m[cached][39m[22m 49 modules
+runtime modules 82.2 KiB 31 modules
+javascript modules 893 bytes
+  [1m./src/App.jsx[39m[22m 721 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+  [1m./src/ProductList.jsx[39m[22m 172 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+webpack 5.75.0 compiled [1m[32msuccessfully[39m[22m in 278 ms
+assets by status 1020 KiB [1m[32m[cached][39m[22m 4 assets
+assets by status 4.77 MiB [1m[32m[emitted][39m[22m
+  assets by path [1m[32m*.js[39m[22m 4.77 MiB
+    assets by info 7 KiB [1m[32m[immutable][39m[22m
+      asset [1m[32msrc_App_jsx.136bad0c260256ac5d4f.hot-update.js[39m[22m 4.76 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+      asset [1m[32mmain.136bad0c260256ac5d4f.hot-update.js[39m[22m 1.42 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: main)
+      asset [1m[32mhome.136bad0c260256ac5d4f.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: home)
+    asset [1m[32msrc_App_jsx.js[39m[22m 4.19 MiB [1m[32m[emitted][39m[22m
+    asset [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: home)
+    asset [1m[32mmain.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: main)
+    asset [1m[32mvendors-node_modules_pnpm_babel_runtime_7_20_6_node_modules_babel_runtime_helpers_esm_asyncTo-12b993.js[39m[22m 42.4 KiB [1m[32m[emitted][39m[22m (id hint: vendors)
+  assets by path [1m[32m*.json[39m[22m 70 bytes
+    asset [1m[32mmain.136bad0c260256ac5d4f.hot-update.json[39m[22m 42 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mhome.136bad0c260256ac5d4f.hot-update.json[39m[22m 28 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+  asset [1m[32mindex.html[39m[22m 342 bytes [1m[32m[emitted][39m[22m
+Entrypoint [1mmain[39m[22m 270 KiB = [1m[32mmain.js[39m[22m 269 KiB [1m[32mmain.136bad0c260256ac5d4f.hot-update.js[39m[22m 1.42 KiB
+Entrypoint [1mhome[39m[22m 270 KiB = [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32mhome.136bad0c260256ac5d4f.hot-update.js[39m[22m 847 bytes
+cached modules 5.01 MiB (javascript) 84 bytes (share-init) 84 bytes (consume-shared) [1m[32m[cached][39m[22m 54 modules
+runtime modules 82.2 KiB 31 modules
+javascript modules 3.31 KiB
+  modules by path [1m./node_modules/.pnpm/@babel+runtime@7.20.6/node_modules/@babel/runtime/helpers/esm/*.js[39m[22m 2.12 KiB
+    [1m./node_modules/.pnpm/@babel+runtime@7.20.6/node_modules/@babel/runtime/helpers/esm/slicedToArray.js[39m[22m 409 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+    [1m./node_modules/.pnpm/@babel+runtime@7.20.6/node_modules/@babel/runtime/helpers/esm/arrayWithHoles.js[39m[22m 86 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+    [1m./node_modules/.pnpm/@babel+runtime@7.20.6/node_modules/@babel/runtime/helpers/esm/iterableToArrayLimit.js[39m[22m 762 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+    [1m./node_modules/.pnpm/@babel+runtime@7.20.6/node_modules/@babel/runtime/helpers/esm/unsupportedIterableToArray.js[39m[22m 495 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+    [1m./node_modules/.pnpm/@babel+runtime@7.20.6/node_modules/@babel/runtime/helpers/esm/nonIterableRest.js[39m[22m 210 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+    [1m./node_modules/.pnpm/@babel+runtime@7.20.6/node_modules/@babel/runtime/helpers/esm/arrayLikeToArray.js[39m[22m 210 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+  modules by path [1m./src/[39m[22m 1.19 KiB
+    [1m./src/index.js[39m[22m 16 bytes [1m[33m[code generated][39m[22m
+    [1m./src/ProductList.jsx[39m[22m 1.17 KiB [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+webpack 5.75.0 compiled [1m[32msuccessfully[39m[22m in 348 ms
+assets by status 5.75 MiB [1m[32m[cached][39m[22m 8 assets
+asset [1m[32mindex.html[39m[22m 342 bytes [1m[32m[emitted][39m[22m
+cached modules 5.02 MiB (javascript) 84 bytes (share-init) 84 bytes (consume-shared) 82.2 KiB (runtime) [1m[32m[cached][39m[22m 92 modules
+[1m./src/ProductList.jsx[39m[22m 1.17 KiB [1m[33m[built][39m[22m
+webpack 5.75.0 compiled [1m[32msuccessfully[39m[22m in 186 ms
+assets by status 5.75 MiB [1m[32m[cached][39m[22m 8 assets
+asset [1m[32mindex.html[39m[22m 342 bytes [1m[32m[emitted][39m[22m
+cached modules 5.02 MiB (javascript) 84 bytes (share-init) 84 bytes (consume-shared) 82.2 KiB (runtime) [1m[32m[cached][39m[22m 92 modules
+[1m./src/ProductList.jsx[39m[22m 1.17 KiB [1m[33m[built][39m[22m
+webpack 5.75.0 compiled [1m[32msuccessfully[39m[22m in 152 ms
+assets by status 1020 KiB [1m[32m[cached][39m[22m 4 assets
+assets by status 4.74 MiB [1m[32m[emitted][39m[22m
+  assets by path [1m[32m*.js[39m[22m 4.74 MiB
+    assets by info 4.61 KiB [1m[32m[immutable][39m[22m
+      asset [1m[32msrc_App_jsx.042b8b1542cf5441dbee.hot-update.js[39m[22m 2.37 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+      asset [1m[32mmain.042b8b1542cf5441dbee.hot-update.js[39m[22m 1.42 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: main)
+      asset [1m[32mhome.042b8b1542cf5441dbee.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: home)
+    asset [1m[32msrc_App_jsx.js[39m[22m 4.19 MiB [1m[32m[emitted][39m[22m
+    asset [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: home)
+    asset [1m[32mmain.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: main)
+    asset [1m[32mvendors-node_modules_pnpm_babel_runtime_7_20_6_node_modules_babel_runtime_helpers_esm_slicedT-0d8782.js[39m[22m 23.2 KiB [1m[32m[emitted][39m[22m (id hint: vendors)
+  assets by path [1m[32m*.json[39m[22m 956 bytes
+    asset [1m[32mmain.042b8b1542cf5441dbee.hot-update.json[39m[22m 536 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mhome.042b8b1542cf5441dbee.hot-update.json[39m[22m 420 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+  asset [1m[32mindex.html[39m[22m 342 bytes [1m[32m[emitted][39m[22m
+Entrypoint [1mmain[39m[22m 270 KiB = [1m[32mmain.js[39m[22m 269 KiB [1m[32mmain.042b8b1542cf5441dbee.hot-update.js[39m[22m 1.42 KiB
+Entrypoint [1mhome[39m[22m 270 KiB = [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32mhome.042b8b1542cf5441dbee.hot-update.js[39m[22m 847 bytes
+cached modules 5 MiB (javascript) 84 bytes (share-init) 84 bytes (consume-shared) [1m[32m[cached][39m[22m 56 modules
+runtime modules 82.2 KiB 31 modules
+javascript modules 525 bytes
+  [1m./src/index.js[39m[22m 16 bytes [1m[33m[code generated][39m[22m
+  [1m./src/ProductList.jsx[39m[22m 509 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+webpack 5.75.0 compiled [1m[32msuccessfully[39m[22m in 152 ms
+assets by status 1.02 MiB [1m[32m[cached][39m[22m 5 assets
+assets by status 4.72 MiB [1m[32m[emitted][39m[22m
+  assets by path [1m[32m*.js[39m[22m 4.72 MiB
+    assets by info 4.02 KiB [1m[32m[immutable][39m[22m
+      asset [1m[32msrc_App_jsx.eec568cbd04e3269d77e.hot-update.js[39m[22m 2.37 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+      asset [1m[32mhome.eec568cbd04e3269d77e.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: home)
+      asset [1m[32mmain.eec568cbd04e3269d77e.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: main)
+    asset [1m[32msrc_App_jsx.js[39m[22m 4.19 MiB [1m[32m[emitted][39m[22m
+    asset [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: home)
+    asset [1m[32mmain.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: main)
+  assets by path [1m[32m*.json[39m[22m 70 bytes
+    asset [1m[32mmain.eec568cbd04e3269d77e.hot-update.json[39m[22m 42 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mhome.eec568cbd04e3269d77e.hot-update.json[39m[22m 28 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+  asset [1m[32mindex.html[39m[22m 342 bytes [1m[32m[emitted][39m[22m
+Entrypoint [1mmain[39m[22m 270 KiB = [1m[32mmain.js[39m[22m 269 KiB [1m[32mmain.eec568cbd04e3269d77e.hot-update.js[39m[22m 847 bytes
+Entrypoint [1mhome[39m[22m 270 KiB = [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32mhome.eec568cbd04e3269d77e.hot-update.js[39m[22m 847 bytes
+cached modules 5 MiB (javascript) 84 bytes (share-init) 84 bytes (consume-shared) [1m[32m[cached][39m[22m 57 modules
+runtime modules 82.2 KiB 31 modules
+[1m./src/ProductList.jsx[39m[22m 509 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+webpack 5.75.0 compiled [1m[32msuccessfully[39m[22m in 140 ms
+assets by status 1.02 MiB [1m[32m[cached][39m[22m 5 assets
+assets by status 4.72 MiB [1m[32m[emitted][39m[22m
+  assets by path [1m[32m*.js[39m[22m 4.72 MiB
+    assets by info 4.04 KiB [1m[32m[immutable][39m[22m
+      asset [1m[32msrc_App_jsx.907703d44a808819a8fe.hot-update.js[39m[22m 2.39 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+      asset [1m[32mhome.907703d44a808819a8fe.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: home)
+      asset [1m[32mmain.907703d44a808819a8fe.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: main)
+    asset [1m[32msrc_App_jsx.js[39m[22m 4.19 MiB [1m[32m[emitted][39m[22m
+    asset [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: home)
+    asset [1m[32mmain.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: main)
+  assets by path [1m[32m*.json[39m[22m 70 bytes
+    asset [1m[32mmain.907703d44a808819a8fe.hot-update.json[39m[22m 42 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mhome.907703d44a808819a8fe.hot-update.json[39m[22m 28 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+  asset [1m[32mindex.html[39m[22m 342 bytes [1m[32m[emitted][39m[22m
+Entrypoint [1mmain[39m[22m 270 KiB = [1m[32mmain.js[39m[22m 269 KiB [1m[32mmain.907703d44a808819a8fe.hot-update.js[39m[22m 847 bytes
+Entrypoint [1mhome[39m[22m 270 KiB = [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32mhome.907703d44a808819a8fe.hot-update.js[39m[22m 847 bytes
+cached modules 5 MiB (javascript) 84 bytes (share-init) 84 bytes (consume-shared) [1m[32m[cached][39m[22m 57 modules
+runtime modules 82.2 KiB 31 modules
+[1m./src/ProductList.jsx[39m[22m 527 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+webpack 5.75.0 compiled [1m[32msuccessfully[39m[22m in 187 ms
+assets by status 1.02 MiB [1m[32m[cached][39m[22m 5 assets
+assets by status 4.73 MiB [1m[32m[emitted][39m[22m
+  assets by path [1m[32m*.js[39m[22m 4.73 MiB
+    assets by info 10 KiB [1m[32m[immutable][39m[22m
+      asset [1m[32msrc_App_jsx.dc56e50d2d3fed129362.hot-update.js[39m[22m 8.38 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+      asset [1m[32mhome.dc56e50d2d3fed129362.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: home)
+      asset [1m[32mmain.dc56e50d2d3fed129362.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: main)
+    asset [1m[32msrc_App_jsx.js[39m[22m 4.2 MiB [1m[32m[emitted][39m[22m
+    asset [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: home)
+    asset [1m[32mmain.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: main)
+  assets by path [1m[32m*.json[39m[22m 70 bytes
+    asset [1m[32mmain.dc56e50d2d3fed129362.hot-update.json[39m[22m 42 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mhome.dc56e50d2d3fed129362.hot-update.json[39m[22m 28 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+  asset [1m[32mindex.html[39m[22m 342 bytes [1m[32m[emitted][39m[22m
+Entrypoint [1mmain[39m[22m 270 KiB = [1m[32mmain.js[39m[22m 269 KiB [1m[32mmain.dc56e50d2d3fed129362.hot-update.js[39m[22m 847 bytes
+Entrypoint [1mhome[39m[22m 270 KiB = [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32mhome.dc56e50d2d3fed129362.hot-update.js[39m[22m 847 bytes
+cached modules 5 MiB (javascript) 84 bytes (share-init) 84 bytes (consume-shared) [1m[32m[cached][39m[22m 57 modules
+runtime modules 82.2 KiB 31 modules
+[1m./src/ProductList.jsx[39m[22m 5.28 KiB [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+webpack 5.75.0 compiled [1m[32msuccessfully[39m[22m in 229 ms
+assets by status 1.02 MiB [1m[32m[cached][39m[22m 5 assets
+assets by status 4.74 MiB [1m[32m[emitted][39m[22m
+  assets by path [1m[32m*.js[39m[22m 4.74 MiB
+    assets by info 16 KiB [1m[32m[immutable][39m[22m
+      asset [1m[32msrc_App_jsx.710ea4a40dc7729c584e.hot-update.js[39m[22m 14.4 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+      asset [1m[32mhome.710ea4a40dc7729c584e.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: home)
+      asset [1m[32mmain.710ea4a40dc7729c584e.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: main)
+    asset [1m[32msrc_App_jsx.js[39m[22m 4.2 MiB [1m[32m[emitted][39m[22m
+    asset [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: home)
+    asset [1m[32mmain.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: main)
+  assets by path [1m[32m*.json[39m[22m 70 bytes
+    asset [1m[32mmain.710ea4a40dc7729c584e.hot-update.json[39m[22m 42 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mhome.710ea4a40dc7729c584e.hot-update.json[39m[22m 28 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+  asset [1m[32mindex.html[39m[22m 342 bytes [1m[32m[emitted][39m[22m
+Entrypoint [1mmain[39m[22m 270 KiB = [1m[32mmain.js[39m[22m 269 KiB [1m[32mmain.710ea4a40dc7729c584e.hot-update.js[39m[22m 847 bytes
+Entrypoint [1mhome[39m[22m 270 KiB = [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32mhome.710ea4a40dc7729c584e.hot-update.js[39m[22m 847 bytes
+cached modules 5 MiB (javascript) 84 bytes (share-init) 84 bytes (consume-shared) [1m[32m[cached][39m[22m 57 modules
+runtime modules 82.2 KiB 31 modules
+[1m./src/ProductList.jsx[39m[22m 10.1 KiB [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+webpack 5.75.0 compiled [1m[32msuccessfully[39m[22m in 502 ms
+assets by status 1.02 MiB [1m[32m[cached][39m[22m 5 assets
+assets by status 4.76 MiB [1m[32m[emitted][39m[22m
+  assets by path [1m[32m*.js[39m[22m 4.75 MiB
+    assets by info 22 KiB [1m[32m[immutable][39m[22m
+      asset [1m[32msrc_App_jsx.dda28aa97484c66ff8ec.hot-update.js[39m[22m 20.3 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+      asset [1m[32mhome.dda28aa97484c66ff8ec.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: home)
+      asset [1m[32mmain.dda28aa97484c66ff8ec.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: main)
+    asset [1m[32msrc_App_jsx.js[39m[22m 4.21 MiB [1m[32m[emitted][39m[22m
+    asset [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: home)
+    asset [1m[32mmain.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: main)
+  assets by path [1m[32m*.json[39m[22m 70 bytes
+    asset [1m[32mmain.dda28aa97484c66ff8ec.hot-update.json[39m[22m 42 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mhome.dda28aa97484c66ff8ec.hot-update.json[39m[22m 28 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+  asset [1m[32mindex.html[39m[22m 342 bytes [1m[32m[emitted][39m[22m
+Entrypoint [1mmain[39m[22m 270 KiB = [1m[32mmain.js[39m[22m 269 KiB [1m[32mmain.dda28aa97484c66ff8ec.hot-update.js[39m[22m 847 bytes
+Entrypoint [1mhome[39m[22m 270 KiB = [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32mhome.dda28aa97484c66ff8ec.hot-update.js[39m[22m 847 bytes
+cached modules 5 MiB (javascript) 84 bytes (share-init) 84 bytes (consume-shared) [1m[32m[cached][39m[22m 57 modules
+runtime modules 82.2 KiB 31 modules
+[1m./src/ProductList.jsx[39m[22m 14.8 KiB [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+webpack 5.75.0 compiled [1m[32msuccessfully[39m[22m in 353 ms
+assets by status 1.02 MiB [1m[32m[cached][39m[22m 5 assets
+assets by status 4.76 MiB [1m[32m[emitted][39m[22m
+  assets by path [1m[32m*.js[39m[22m 4.75 MiB
+    assets by info 22 KiB [1m[32m[immutable][39m[22m
+      asset [1m[32msrc_App_jsx.d6f6708358a2527b8336.hot-update.js[39m[22m 20.3 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+      asset [1m[32mhome.d6f6708358a2527b8336.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: home)
+      asset [1m[32mmain.d6f6708358a2527b8336.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: main)
+    asset [1m[32msrc_App_jsx.js[39m[22m 4.21 MiB [1m[32m[emitted][39m[22m
+    asset [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: home)
+    asset [1m[32mmain.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: main)
+  assets by path [1m[32m*.json[39m[22m 70 bytes
+    asset [1m[32mmain.d6f6708358a2527b8336.hot-update.json[39m[22m 42 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mhome.d6f6708358a2527b8336.hot-update.json[39m[22m 28 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+  asset [1m[32mindex.html[39m[22m 342 bytes [1m[32m[emitted][39m[22m
+Entrypoint [1mmain[39m[22m 270 KiB = [1m[32mmain.js[39m[22m 269 KiB [1m[32mmain.d6f6708358a2527b8336.hot-update.js[39m[22m 847 bytes
+Entrypoint [1mhome[39m[22m 270 KiB = [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32mhome.d6f6708358a2527b8336.hot-update.js[39m[22m 847 bytes
+cached modules 5 MiB (javascript) 84 bytes (share-init) 84 bytes (consume-shared) [1m[32m[cached][39m[22m 57 modules
+runtime modules 82.2 KiB 31 modules
+[1m./src/ProductList.jsx[39m[22m 14.8 KiB [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+webpack 5.75.0 compiled [1m[32msuccessfully[39m[22m in 451 ms
+assets by status 1.02 MiB [1m[32m[cached][39m[22m 5 assets
+assets by status 4.76 MiB [1m[32m[emitted][39m[22m
+  assets by path [1m[32m*.js[39m[22m 4.75 MiB
+    assets by info 22 KiB [1m[32m[immutable][39m[22m
+      asset [1m[32msrc_App_jsx.59b648dace7de943db1b.hot-update.js[39m[22m 20.4 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+      asset [1m[32mhome.59b648dace7de943db1b.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: home)
+      asset [1m[32mmain.59b648dace7de943db1b.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: main)
+    asset [1m[32msrc_App_jsx.js[39m[22m 4.21 MiB [1m[32m[emitted][39m[22m
+    asset [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: home)
+    asset [1m[32mmain.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: main)
+  assets by path [1m[32m*.json[39m[22m 70 bytes
+    asset [1m[32mmain.59b648dace7de943db1b.hot-update.json[39m[22m 42 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mhome.59b648dace7de943db1b.hot-update.json[39m[22m 28 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+  asset [1m[32mindex.html[39m[22m 342 bytes [1m[32m[emitted][39m[22m
+Entrypoint [1mmain[39m[22m 270 KiB = [1m[32mmain.js[39m[22m 269 KiB [1m[32mmain.59b648dace7de943db1b.hot-update.js[39m[22m 847 bytes
+Entrypoint [1mhome[39m[22m 270 KiB = [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32mhome.59b648dace7de943db1b.hot-update.js[39m[22m 847 bytes
+cached modules 5 MiB (javascript) 84 bytes (share-init) 84 bytes (consume-shared) [1m[32m[cached][39m[22m 57 modules
+runtime modules 82.2 KiB 31 modules
+[1m./src/ProductList.jsx[39m[22m 14.8 KiB [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+webpack 5.75.0 compiled [1m[32msuccessfully[39m[22m in 331 ms
+assets by status 1.02 MiB [1m[32m[cached][39m[22m 5 assets
+assets by status 4.76 MiB [1m[32m[emitted][39m[22m
+  assets by path [1m[32m*.js[39m[22m 4.75 MiB
+    assets by info 22 KiB [1m[32m[immutable][39m[22m
+      asset [1m[32msrc_App_jsx.688c9e396ace164ee126.hot-update.js[39m[22m 20.4 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+      asset [1m[32mhome.688c9e396ace164ee126.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: home)
+      asset [1m[32mmain.688c9e396ace164ee126.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: main)
+    asset [1m[32msrc_App_jsx.js[39m[22m 4.21 MiB [1m[32m[emitted][39m[22m
+    asset [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: home)
+    asset [1m[32mmain.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: main)
+  assets by path [1m[32m*.json[39m[22m 70 bytes
+    asset [1m[32mmain.688c9e396ace164ee126.hot-update.json[39m[22m 42 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mhome.688c9e396ace164ee126.hot-update.json[39m[22m 28 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+  asset [1m[32mindex.html[39m[22m 342 bytes [1m[32m[emitted][39m[22m
+Entrypoint [1mmain[39m[22m 270 KiB = [1m[32mmain.js[39m[22m 269 KiB [1m[32mmain.688c9e396ace164ee126.hot-update.js[39m[22m 847 bytes
+Entrypoint [1mhome[39m[22m 270 KiB = [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32mhome.688c9e396ace164ee126.hot-update.js[39m[22m 847 bytes
+cached modules 5 MiB (javascript) 84 bytes (share-init) 84 bytes (consume-shared) [1m[32m[cached][39m[22m 57 modules
+runtime modules 82.2 KiB 31 modules
+[1m./src/ProductList.jsx[39m[22m 14.8 KiB [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+webpack 5.75.0 compiled [1m[32msuccessfully[39m[22m in 287 ms
+assets by status 1.02 MiB [1m[32m[cached][39m[22m 5 assets
+assets by status 4.76 MiB [1m[32m[emitted][39m[22m
+  assets by path [1m[32m*.js[39m[22m 4.75 MiB
+    assets by info 22 KiB [1m[32m[immutable][39m[22m
+      asset [1m[32msrc_App_jsx.ce5aa07571705178563b.hot-update.js[39m[22m 20.4 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+      asset [1m[32mhome.ce5aa07571705178563b.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: home)
+      asset [1m[32mmain.ce5aa07571705178563b.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: main)
+    asset [1m[32msrc_App_jsx.js[39m[22m 4.21 MiB [1m[32m[emitted][39m[22m
+    asset [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: home)
+    asset [1m[32mmain.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: main)
+  assets by path [1m[32m*.json[39m[22m 70 bytes
+    asset [1m[32mmain.ce5aa07571705178563b.hot-update.json[39m[22m 42 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mhome.ce5aa07571705178563b.hot-update.json[39m[22m 28 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+  asset [1m[32mindex.html[39m[22m 342 bytes [1m[32m[emitted][39m[22m
+Entrypoint [1mmain[39m[22m 270 KiB = [1m[32mmain.js[39m[22m 269 KiB [1m[32mmain.ce5aa07571705178563b.hot-update.js[39m[22m 847 bytes
+Entrypoint [1mhome[39m[22m 270 KiB = [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32mhome.ce5aa07571705178563b.hot-update.js[39m[22m 847 bytes
+cached modules 5 MiB (javascript) 84 bytes (share-init) 84 bytes (consume-shared) [1m[32m[cached][39m[22m 57 modules
+runtime modules 82.2 KiB 31 modules
+[1m./src/ProductList.jsx[39m[22m 14.8 KiB [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+webpack 5.75.0 compiled [1m[32msuccessfully[39m[22m in 287 ms
+assets by status 1.02 MiB [1m[32m[cached][39m[22m 5 assets
+assets by status 4.76 MiB [1m[32m[emitted][39m[22m
+  assets by path [1m[32m*.js[39m[22m 4.75 MiB
+    assets by info 22 KiB [1m[32m[immutable][39m[22m
+      asset [1m[32msrc_App_jsx.790e09b797a0ffdf7e33.hot-update.js[39m[22m 20.4 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+      asset [1m[32mhome.790e09b797a0ffdf7e33.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: home)
+      asset [1m[32mmain.790e09b797a0ffdf7e33.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: main)
+    asset [1m[32msrc_App_jsx.js[39m[22m 4.21 MiB [1m[32m[emitted][39m[22m
+    asset [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: home)
+    asset [1m[32mmain.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: main)
+  assets by path [1m[32m*.json[39m[22m 70 bytes
+    asset [1m[32mmain.790e09b797a0ffdf7e33.hot-update.json[39m[22m 42 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mhome.790e09b797a0ffdf7e33.hot-update.json[39m[22m 28 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+  asset [1m[32mindex.html[39m[22m 342 bytes [1m[32m[emitted][39m[22m
+Entrypoint [1mmain[39m[22m 270 KiB = [1m[32mmain.js[39m[22m 269 KiB [1m[32mmain.790e09b797a0ffdf7e33.hot-update.js[39m[22m 847 bytes
+Entrypoint [1mhome[39m[22m 270 KiB = [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32mhome.790e09b797a0ffdf7e33.hot-update.js[39m[22m 847 bytes
+cached modules 5 MiB (javascript) 84 bytes (share-init) 84 bytes (consume-shared) [1m[32m[cached][39m[22m 57 modules
+runtime modules 82.2 KiB 31 modules
+[1m./src/ProductList.jsx[39m[22m 14.8 KiB [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+webpack 5.75.0 compiled [1m[32msuccessfully[39m[22m in 403 ms
+assets by status 1.02 MiB [1m[32m[cached][39m[22m 5 assets
+assets by status 4.73 MiB [1m[32m[emitted][39m[22m
+  assets by path [1m[32m*.js[39m[22m 4.73 MiB
+    assets by info 10 KiB [1m[32m[immutable][39m[22m
+      asset [1m[32msrc_App_jsx.6087387532e0a24f115f.hot-update.js[39m[22m 8.38 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+      asset [1m[32mhome.6087387532e0a24f115f.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: home)
+      asset [1m[32mmain.6087387532e0a24f115f.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: main)
+    asset [1m[32msrc_App_jsx.js[39m[22m 4.2 MiB [1m[32m[emitted][39m[22m
+    asset [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: home)
+    asset [1m[32mmain.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: main)
+  assets by path [1m[32m*.json[39m[22m 70 bytes
+    asset [1m[32mmain.6087387532e0a24f115f.hot-update.json[39m[22m 42 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mhome.6087387532e0a24f115f.hot-update.json[39m[22m 28 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+  asset [1m[32mindex.html[39m[22m 342 bytes [1m[32m[emitted][39m[22m
+Entrypoint [1mmain[39m[22m 270 KiB = [1m[32mmain.js[39m[22m 269 KiB [1m[32mmain.6087387532e0a24f115f.hot-update.js[39m[22m 847 bytes
+Entrypoint [1mhome[39m[22m 270 KiB = [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32mhome.6087387532e0a24f115f.hot-update.js[39m[22m 847 bytes
+cached modules 5 MiB (javascript) 84 bytes (share-init) 84 bytes (consume-shared) [1m[32m[cached][39m[22m 57 modules
+runtime modules 82.2 KiB 31 modules
+[1m./src/ProductList.jsx[39m[22m 5.29 KiB [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+webpack 5.75.0 compiled [1m[32msuccessfully[39m[22m in 206 ms
+assets by status 1020 KiB [1m[32m[cached][39m[22m 4 assets
+assets by status 4.76 MiB [1m[32m[emitted][39m[22m
+  assets by path [1m[32m*.js[39m[22m 4.76 MiB
+    assets by info 26.5 KiB [1m[32m[immutable][39m[22m
+      asset [1m[32msrc_App_jsx.53aa4db9e81f4919e119.hot-update.js[39m[22m 24.4 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+      asset [1m[32mmain.53aa4db9e81f4919e119.hot-update.js[39m[22m 1.29 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: main)
+      asset [1m[32mhome.53aa4db9e81f4919e119.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: home)
+    asset [1m[32msrc_App_jsx.js[39m[22m 4.21 MiB [1m[32m[emitted][39m[22m
+    asset [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: home)
+    asset [1m[32mmain.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: main)
+  assets by path [1m[32m*.json[39m[22m 1.45 KiB
+    asset [1m[32mmain.53aa4db9e81f4919e119.hot-update.json[39m[22m 801 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mhome.53aa4db9e81f4919e119.hot-update.json[39m[22m 685 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+  asset [1m[32mindex.html[39m[22m 342 bytes [1m[32m[emitted][39m[22m
+Entrypoint [1mmain[39m[22m 270 KiB = [1m[32mmain.js[39m[22m 269 KiB [1m[32mmain.53aa4db9e81f4919e119.hot-update.js[39m[22m 1.29 KiB
+Entrypoint [1mhome[39m[22m 270 KiB = [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32mhome.53aa4db9e81f4919e119.hot-update.js[39m[22m 847 bytes
+cached modules 5 MiB (javascript) 84 bytes (share-init) 84 bytes (consume-shared) [1m[32m[cached][39m[22m 48 modules
+runtime modules 82.2 KiB 31 modules
+javascript modules 776 bytes
+  [1m./src/index.js[39m[22m 16 bytes [1m[33m[code generated][39m[22m
+  [1m./src/App.jsx[39m[22m 721 bytes [1m[33m[code generated][39m[22m
+  [1m./src/ProductList.jsx[39m[22m 39 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m [1m[31m[1 error][39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/ProductList.jsx[39m[22m
+Module build failed (from ./node_modules/.pnpm/babel-loader@8.3.0_ztqwsvkb6z73luspkai6ilstpu/node_modules/babel-loader/lib/index.js):
+SyntaxError: /home/amm834/workspace/micro-frontend/home/src/ProductList.jsx: Expected corresponding JSX closing tag for <>. (67:20)
+
+[0m [90m 65 |[39m                         [33m<[39m[33m/[39m[33mdiv[39m[33m>[39m[0m
+[0m [90m 66 |[39m                     [33m<[39m[33m/[39m[33mdiv[39m[33m>[39m[0m
+[0m[31m[1m>[22m[39m[90m 67 |[39m                     [33m<[39m[33m/[39m[33mdiv[39m[33m>[39m[0m
+[0m [90m    |[39m                     [31m[1m^[22m[39m[0m
+[0m [90m 68 |[39m                 [33m<[39m[33m/[39m[33m>[39m[0m
+[0m [90m 69 |[39m                 ))[0m
+[0m [90m 70 |[39m             }[0m
+    at instantiate (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:67:32)
+    at constructor (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:364:12)
+    at JSXParserMixin.raise (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:3365:19)
+    at JSXParserMixin.jsxParseElementAt (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:7185:14)
+    at JSXParserMixin.jsxParseElement (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:7221:17)
+    at JSXParserMixin.parseExprAtom (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:7234:19)
+    at JSXParserMixin.parseExprSubscripts (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:11171:23)
+    at JSXParserMixin.parseUpdate (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:11153:21)
+    at JSXParserMixin.parseMaybeUnary (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:11127:23)
+    at JSXParserMixin.parseMaybeUnaryOrPrivate (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:10956:61)
+    at JSXParserMixin.parseExprOps (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:10962:23)
+    at JSXParserMixin.parseMaybeConditional (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:10937:23)
+    at JSXParserMixin.parseMaybeAssign (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:10895:21)
+    at /home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:10863:39
+    at JSXParserMixin.allowInAnd (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:12640:12)
+    at JSXParserMixin.parseMaybeAssignAllowIn (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:10863:17)
+    at JSXParserMixin.parseParenAndDistinguishExpression (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:11817:28)
+    at JSXParserMixin.parseExprAtom (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:11446:23)
+    at JSXParserMixin.parseExprAtom (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:7239:20)
+    at JSXParserMixin.parseExprSubscripts (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:11171:23)
+    at JSXParserMixin.parseUpdate (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:11153:21)
+    at JSXParserMixin.parseMaybeUnary (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:11127:23)
+    at JSXParserMixin.parseMaybeUnaryOrPrivate (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:10956:61)
+    at JSXParserMixin.parseExprOps (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:10962:23)
+    at JSXParserMixin.parseMaybeConditional (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:10937:23)
+    at JSXParserMixin.parseMaybeAssign (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:10895:21)
+    at JSXParserMixin.parseFunctionBody (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:12279:24)
+    at JSXParserMixin.parseArrowExpression (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:12260:10)
+    at JSXParserMixin.parseExprAtom (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:11564:25)
+    at JSXParserMixin.parseExprAtom (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:7239:20)
+    at JSXParserMixin.parseExprSubscripts (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:11171:23)
+    at JSXParserMixin.parseUpdate (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:11153:21)
+    at JSXParserMixin.parseMaybeUnary (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:11127:23)
+    at JSXParserMixin.parseMaybeUnaryOrPrivate (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:10956:61)
+    at JSXParserMixin.parseExprOps (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:10962:23)
+    at JSXParserMixin.parseMaybeConditional (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:10937:23)
+    at JSXParserMixin.parseMaybeAssign (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:10895:21)
+    at /home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:10863:39
+    at JSXParserMixin.allowInAnd (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:12640:12)
+    at JSXParserMixin.parseMaybeAssignAllowIn (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:10863:17)
+    at JSXParserMixin.parseExprListItem (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:12380:18)
+    at JSXParserMixin.parseCallExpressionArguments (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:11367:22)
+    at JSXParserMixin.parseCoverCallAndAsyncArrowHead (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:11279:29)
+    at JSXParserMixin.parseSubscript (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:11210:19)
+    at JSXParserMixin.parseSubscripts (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:11184:19)
+    at JSXParserMixin.parseExprSubscripts (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:11175:17)
+    at JSXParserMixin.parseUpdate (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:11153:21)
+    at JSXParserMixin.parseMaybeUnary (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:11127:23)
+    at JSXParserMixin.parseMaybeUnaryOrPrivate (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:10956:61)
+    at JSXParserMixin.parseExprOps (/home/amm834/workspace/micro-frontend/home/node_modules/.pnpm/@babel+parser@7.20.5/node_modules/@babel/parser/lib/index.js:10962:23)
+ @ ./src/App.jsx 6:0-40 14:38-49
+ @ ./src/index.js 1:0-15
+
+webpack 5.75.0 compiled with [1m[31m1 error[39m[22m in 241 ms
+assets by status 1.02 MiB [1m[32m[cached][39m[22m 5 assets
+assets by status 4.73 MiB [1m[32m[emitted][39m[22m
+  assets by path [1m[32m*.js[39m[22m 4.73 MiB
+    assets by info 11.8 KiB [1m[32m[immutable][39m[22m
+      asset [1m[32msrc_App_jsx.830a2d1eb660216dd17a.hot-update.js[39m[22m 9.57 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+      asset [1m[32mmain.830a2d1eb660216dd17a.hot-update.js[39m[22m 1.42 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: main)
+      asset [1m[32mhome.830a2d1eb660216dd17a.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: home)
+    asset [1m[32msrc_App_jsx.js[39m[22m 4.2 MiB [1m[32m[emitted][39m[22m
+    asset [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: home)
+    asset [1m[32mmain.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: main)
+  assets by path [1m[32m*.json[39m[22m 70 bytes
+    asset [1m[32mmain.830a2d1eb660216dd17a.hot-update.json[39m[22m 42 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mhome.830a2d1eb660216dd17a.hot-update.json[39m[22m 28 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+  asset [1m[32mindex.html[39m[22m 342 bytes [1m[32m[emitted][39m[22m
+Entrypoint [1mmain[39m[22m 270 KiB = [1m[32mmain.js[39m[22m 269 KiB [1m[32mmain.830a2d1eb660216dd17a.hot-update.js[39m[22m 1.42 KiB
+Entrypoint [1mhome[39m[22m 270 KiB = [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32mhome.830a2d1eb660216dd17a.hot-update.js[39m[22m 847 bytes
+cached modules 5 MiB (javascript) 84 bytes (share-init) 84 bytes (consume-shared) [1m[32m[cached][39m[22m 55 modules
+runtime modules 82.2 KiB 31 modules
+javascript modules 6.12 KiB
+  [1m./src/index.js[39m[22m 16 bytes [1m[33m[code generated][39m[22m
+  [1m./src/App.jsx[39m[22m 721 bytes [1m[33m[code generated][39m[22m
+  [1m./src/ProductList.jsx[39m[22m 5.4 KiB [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+webpack 5.75.0 compiled [1m[32msuccessfully[39m[22m in 263 ms
+assets by status 1.02 MiB [1m[32m[cached][39m[22m 5 assets
+assets by status 4.73 MiB [1m[32m[emitted][39m[22m
+  assets by path [1m[32m*.js[39m[22m 4.73 MiB
+    assets by info 10.3 KiB [1m[32m[immutable][39m[22m
+      asset [1m[32msrc_App_jsx.a0655f2764af52102142.hot-update.js[39m[22m 8.69 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+      asset [1m[32mhome.a0655f2764af52102142.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: home)
+      asset [1m[32mmain.a0655f2764af52102142.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: main)
+    asset [1m[32msrc_App_jsx.js[39m[22m 4.2 MiB [1m[32m[emitted][39m[22m
+    asset [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: home)
+    asset [1m[32mmain.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: main)
+  assets by path [1m[32m*.json[39m[22m 70 bytes
+    asset [1m[32mmain.a0655f2764af52102142.hot-update.json[39m[22m 42 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mhome.a0655f2764af52102142.hot-update.json[39m[22m 28 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+  asset [1m[32mindex.html[39m[22m 342 bytes [1m[32m[emitted][39m[22m
+Entrypoint [1mmain[39m[22m 270 KiB = [1m[32mmain.js[39m[22m 269 KiB [1m[32mmain.a0655f2764af52102142.hot-update.js[39m[22m 847 bytes
+Entrypoint [1mhome[39m[22m 270 KiB = [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32mhome.a0655f2764af52102142.hot-update.js[39m[22m 847 bytes
+cached modules 5 MiB (javascript) 84 bytes (share-init) 84 bytes (consume-shared) [1m[32m[cached][39m[22m 57 modules
+runtime modules 82.2 KiB 31 modules
+[1m./src/ProductList.jsx[39m[22m 5.52 KiB [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+webpack 5.75.0 compiled [1m[32msuccessfully[39m[22m in 247 ms
+assets by status 1.02 MiB [1m[32m[cached][39m[22m 5 assets
+assets by status 4.73 MiB [1m[32m[emitted][39m[22m
+  assets by path [1m[32m*.js[39m[22m 4.73 MiB
+    assets by info 10.3 KiB [1m[32m[immutable][39m[22m
+      asset [1m[32msrc_App_jsx.024cdccb20d102e0b9d5.hot-update.js[39m[22m 8.68 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+      asset [1m[32mhome.024cdccb20d102e0b9d5.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: home)
+      asset [1m[32mmain.024cdccb20d102e0b9d5.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: main)
+    asset [1m[32msrc_App_jsx.js[39m[22m 4.2 MiB [1m[32m[emitted][39m[22m
+    asset [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: home)
+    asset [1m[32mmain.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: main)
+  assets by path [1m[32m*.json[39m[22m 70 bytes
+    asset [1m[32mmain.024cdccb20d102e0b9d5.hot-update.json[39m[22m 42 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mhome.024cdccb20d102e0b9d5.hot-update.json[39m[22m 28 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+  asset [1m[32mindex.html[39m[22m 342 bytes [1m[32m[emitted][39m[22m
+Entrypoint [1mmain[39m[22m 270 KiB = [1m[32mmain.js[39m[22m 269 KiB [1m[32mmain.024cdccb20d102e0b9d5.hot-update.js[39m[22m 847 bytes
+Entrypoint [1mhome[39m[22m 270 KiB = [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32mhome.024cdccb20d102e0b9d5.hot-update.js[39m[22m 847 bytes
+cached modules 5 MiB (javascript) 84 bytes (share-init) 84 bytes (consume-shared) [1m[32m[cached][39m[22m 57 modules
+runtime modules 82.2 KiB 31 modules
+[1m./src/ProductList.jsx[39m[22m 5.51 KiB [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+webpack 5.75.0 compiled [1m[32msuccessfully[39m[22m in 348 ms
+assets by status 1.02 MiB [1m[32m[cached][39m[22m 5 assets
+assets by status 4.73 MiB [1m[32m[emitted][39m[22m
+  assets by path [1m[32m*.js[39m[22m 4.73 MiB
+    assets by info 10.3 KiB [1m[32m[immutable][39m[22m
+      asset [1m[32msrc_App_jsx.e18de0fc260d8da8087b.hot-update.js[39m[22m 8.64 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+      asset [1m[32mhome.e18de0fc260d8da8087b.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: home)
+      asset [1m[32mmain.e18de0fc260d8da8087b.hot-update.js[39m[22m 847 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: main)
+    asset [1m[32msrc_App_jsx.js[39m[22m 4.2 MiB [1m[32m[emitted][39m[22m
+    asset [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: home)
+    asset [1m[32mmain.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: main)
+  assets by path [1m[32m*.json[39m[22m 70 bytes
+    asset [1m[32mmain.e18de0fc260d8da8087b.hot-update.json[39m[22m 42 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+    asset [1m[32mhome.e18de0fc260d8da8087b.hot-update.json[39m[22m 28 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+  asset [1m[32mindex.html[39m[22m 342 bytes [1m[32m[emitted][39m[22m
+Entrypoint [1mmain[39m[22m 270 KiB = [1m[32mmain.js[39m[22m 269 KiB [1m[32mmain.e18de0fc260d8da8087b.hot-update.js[39m[22m 847 bytes
+Entrypoint [1mhome[39m[22m 270 KiB = [1m[32mremoteEntry.js[39m[22m 269 KiB [1m[32mhome.e18de0fc260d8da8087b.hot-update.js[39m[22m 847 bytes
+cached modules 5 MiB (javascript) 84 bytes (share-init) 84 bytes (consume-shared) [1m
