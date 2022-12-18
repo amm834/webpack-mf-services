@@ -1,0 +1,49 @@
+Script started on 2022-12-18 07:17:10+06:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="127" LINES="20"]
+[1m[7m%[27m[1m[0m                                                                                                                               ]2;amm834@amm834-Aspire-E5-471G:~/workspace/micro-frontend/home]1;..frontend/home[0m[27m[24m[J[01;32m➜  [36mhome[00m [K[?1h=[?2004hlless pnp   a package.json[1m [0m[0m [?1l>[?2004l
+]2;less package.json]1;less[?1049h[22;0;0t[?1h={[m
+  "name": "home",[m
+  "version": "1.0.0",[m
+  "scripts": {[m
+    "build": "webpack --mode production",[m
+    "build:dev": "webpack --mode development",[m
+    "build:start": "cd dist && PORT=3000 npx serve",[m
+    "start": "webpack serve --open --mode development",[m
+    "start:live": "webpack serve --open --mode development --live-reload --hot"[m
+  },[m
+  "license": "MIT",[m
+  "author": {[m
+    "name": "Jack Herrington",[m
+    "email": "jherr@pobox.com"[m
+  },[m
+  "devDependencies": {[m
+    "@babel/core": "^7.15.8",[m
+    "@babel/plugin-transform-runtime": "^7.15.8",[m
+    "@babel/preset-env": "^7.15.8",[m
+[7mpackage.json[27m[K[K[?1l>[?1049l[23;0;0t[1m[7m%[27m[1m[0m                                                                                                                               ]2;amm834@amm834-Aspire-E5-471G:~/workspace/micro-frontend/home]1;..frontend/home[0m[27m[24m[J[01;32m➜  [36mhome[00m [K[?1h=[?2004hpppn p pnpm serve[?1l>[?2004l
+]2;pnpm serve]1;pnpm[41m[30m ERR_PNPM_RECURSIVE_EXEC_FIRST_FAIL [39m[49m [31mCommand failed with ENOENT: serve[39m
+[31mspawn serve ENOENT[39m
+[1m[7m%[27m[1m[0m                                                                                                                               ]2;amm834@amm834-Aspire-E5-471G:~/workspace/micro-frontend/home]1;..frontend/home[0m[27m[24m[J[01;31m➜  [36mhome[00m [K[?1h=[?2004hpnpm serve     build:dev[?1l>[?2004l
+]2;pnpm build:dev]1;pnpm
+> home@1.0.0 build:dev /home/amm834/workspace/micro-frontend/home
+> webpack --mode development
+
+^C[1m[7m%[27m[1m[0m                                                                                                                               ]2;amm834@amm834-Aspire-E5-471G:~/workspace/micro-frontend/home]1;..frontend/home[0m[27m[24m[J[01;32m➜  [36mhome[00m [K[?1h=[?2004hppnpm d start[?1l>[?2004l
+]2;pnpm start]1;pnpm
+> home@1.0.0 start /home/amm834/workspace/micro-frontend/home
+> webpack serve --open --mode development
+
+<i> [1m[32m[webpack-dev-server] Project is running at:[39m[22m
+<i> [1m[32m[webpack-dev-server] Loopback: [36mhttp://localhost:3000/[39m[39m[22m
+<i> [1m[32m[webpack-dev-server] On Your Network (IPv4): [36mhttp://192.168.1.6:3000/[39m[39m[22m
+<i> [1m[32m[webpack-dev-server] On Your Network (IPv6): [36mhttp://[fe80::8456:1b5e:1674:8d5f]:3000/[39m[39m[22m
+<i> [1m[32m[webpack-dev-server] Content not from webpack is served from '[36m/home/amm834/workspace/micro-frontend/home/public[39m' directory[39m[22m
+<i> [1m[32m[webpack-dev-server] 404s will fallback to '[36m/index.html[39m'[39m[22m
+<i> [1m[32m[webpack-dev-middleware] wait until bundle finished: /[39m[22m
+assets by chunk 1010 KiB (id hint: vendors)
+  asset [1m[32mvendors-node_modules_pnpm_react-dom_17_0_2_react_17_0_2_node_modules_react-dom_index_js.js[39m[22m 935 KiB [1m[32m[emitted][39m[22m (id hint: vendors)
+  asset [1m[32mvendors-node_modules_pnpm_react_17_0_2_node_modules_react_index_js.js[39m[22m 77.5 KiB [1m[32m[emitted][39m[22m (id hint: vendors)
+asset [1m[32msrc_App_jsx.js[39m[22m 4.2 MiB [1m[32m[emitted][39m[22m
+asset [1m[32mmain.js[39m[22m 269 KiB [1m[32m[emitted][39m[22m (name: main)
+asset [1m[32mindex.html[39m[22m 276 bytes [1m[32m[emitted][39m[22m
+runtime modules 41.3 KiB 16 modules
+modules by path [1m./node_modules/.pnpm/[
